@@ -45,9 +45,15 @@ for SeasonTables in doc.find_all('table', {"class" : "table table-responsive Dat
     nameList.append(atheleteName.string)
 
 nameList.remove("dummy")
-nameList.remove("Ved Joshi")
-#print(nameList)
 
+for AtheleteTables in doc.find_all("div", {'class' : 'athlete showHistory d-flex flex-column flex-md-row'}):
+    haveresults = AtheleteTables.find('table', {'class' : "DataTable HLData2 historyStats"})
+    if len(str(haveresults))<10:
+        NameTable = AtheleteTables.find("table", {'class': "table table-responsive DataTable HLData seasonStats"})
+        atheleteName = NameTable.find('a')
+        print("Removed: " + atheleteName.string + "(No Results)")
+        nameList.remove(atheleteName.string)
+        
 file = open("DistanceTeamStats.csv", "w", newline="")
 writer = csv.writer(file)
 
@@ -78,12 +84,10 @@ for historicalTables in doc.find_all('table', {'class' : "DataTable HLData2 hist
         eventfunction("800 Meters", "800")
         shouldPrint = True
 
-
     if "1600 Meters" in timeList:
         eventfunction("1600 Meters", "1600")
         shouldPrint = True
 
-    
     if "3200 Meters" in timeList:
         eventfunction("3200 Meters", "3200")
         shouldPrint = True
