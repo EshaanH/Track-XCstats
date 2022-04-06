@@ -93,12 +93,13 @@ importantAtheleteList = templist
 
 file = open("TopOfTeam.csv", "w", newline="")
 writer = csv.writer(file)
-writer.writerow(["Name", "XC 2 Mile", "XC 3 Mile", "800", "1600", "3200"]) #this gives each column a nice header when imported into google sheets. optional
+writer.writerow(["Name", "Grade", "XC 2 Mile", "XC 3 Mile", "800 Meters", "1600 Meters", "3200 Meters"]) #this gives each column a nice header when imported into google sheets. optional
 
 for link in importantAtheleteList:
     XCurl = "https://www.athletic.net/CrossCountry/" + link
     TFurl = "https://www.athletic.net/TrackAndField/" + link
-
+    trytrack = False
+    
     result = requests.get(XCurl)
     doc = BeautifulSoup(result.text, "html.parser")
 
@@ -106,6 +107,12 @@ for link in importantAtheleteList:
     title = title.replace('\n','').replace('\t','').replace('\r','')
     athlete_name = title.split('-')[0]
     
+    grade  = doc.find('span', {'class' : 'float-right'})
+    try:
+        testVar = grade.string
+    except:
+        tryTrack = True
+
     XCtwomiletime = ""
     XCthreemiletime = ""
 
@@ -119,6 +126,9 @@ for link in importantAtheleteList:
 
     result = requests.get(TFurl)
     doc = BeautifulSoup(result.text, "html.parser")
+    
+    if tryTrack:
+        grade  = doc.find('span', {'class' : 'float-right'})
 
     eighttime = ""
     sixtime = ""
@@ -134,7 +144,7 @@ for link in importantAtheleteList:
             if event_Name == "3200 Meters":
                 thirtytime = bestTime(event)
 
-    athleteStats = [athlete_name.strip(), XCtwomiletime, XCthreemiletime, eighttime, sixtime, thirtytime]
+    athleteStats = [athlete_name.strip(), grade.string, XCtwomiletime, XCthreemiletime, eighttime, sixtime, thirtytime]
     writer.writerow(athleteStats)
     
 file.close
