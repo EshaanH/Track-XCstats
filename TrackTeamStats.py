@@ -51,7 +51,7 @@ for AtheleteTables in doc.find_all("div", {'class' : 'athlete showHistory d-flex
     if len(str(haveresults))<10:
         NameTable = AtheleteTables.find("table", {'class': "table table-responsive DataTable HLData seasonStats"})
         atheleteName = NameTable.find('a')
-        print("Removed: " + atheleteName.string + "(No Results)")
+        print("Removed: " + atheleteName.string + " (No Results)")
         nameList.remove(atheleteName.string)
         
 file = open("DistanceTeamStats.csv", "w", newline="")

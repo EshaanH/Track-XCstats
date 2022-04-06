@@ -15,6 +15,7 @@ for eventTables in doc.find_all('h3', {"class" : "mt-2"}):
     split2 = split1.split('<',1)[0]
 
     eventList.append(split2)
+    print(split2)
 
 eventList.remove("Events:")   
 didjustindex = False
