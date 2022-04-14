@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+import timeconversion
 
 def bestTime(eventy):
     eventtimelist = ["Times:"]
@@ -14,7 +15,7 @@ def bestTime(eventy):
             currentValue = input
     return currentValue
     
-def getTopSchool(schoolid, XCtop2miles = 5, XCtop3miles = 10, TFtop3200 = 7, TFtop1600 = 7, TFtop800 = 5):    
+def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCtop3miles = 10, TFtop3200 = 7, TFtop1600 = 7, TFtop800 = 5):    
     url = "https://www.athletic.net/CrossCountry/seasonbest?SchoolID=" + schoolid # XC Team Profile
 
     result = requests.get(url)
@@ -84,9 +85,9 @@ def getTopSchool(schoolid, XCtop2miles = 5, XCtop3miles = 10, TFtop3200 = 7, TFt
 
     importantAtheleteList = templist
 
-    file = open("RelevantTeamTimes.csv", "w", newline="")
+    file_name = fileName + ".csv"
+    file = open(file_name, "w", newline="")
     writer = csv.writer(file)
-    #writer.writerow(["Name", "Grade", "XC 2 Mile", "XC 3 Mile", "800 Meters", "1600 Meters", "3200 Meters"]) #this gives each column a nice header when imported into google sheets. optional
 
     for link in importantAtheleteList:
         XCurl = "https://www.athletic.net/CrossCountry/" + link
@@ -130,7 +131,6 @@ def getTopSchool(schoolid, XCtop2miles = 5, XCtop3miles = 10, TFtop3200 = 7, TFt
 
         gradeList.sort()
         actualgrade=gradeList[-1]
-        print(gradeList)
 
         eighttime = ""
         sixtime = ""
@@ -146,7 +146,7 @@ def getTopSchool(schoolid, XCtop2miles = 5, XCtop3miles = 10, TFtop3200 = 7, TFt
                 if event_Name == "3200 Meters":
                     thirtytime = bestTime(event)
 
-        athleteStats = [athlete_name.strip(), actualgrade, XCtwomiletime, XCthreemiletime, eighttime, sixtime, thirtytime]
+        athleteStats = [athlete_name.strip(), link, actualgrade, XCtwomiletime, XCthreemiletime, eighttime, sixtime, thirtytime]
         writer.writerow(athleteStats)
         
     file.close

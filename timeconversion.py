@@ -13,10 +13,3 @@ def convertTime800(time, conversionFactor = 2.2):
 def format1600(time):
     return time.split(".")[0]
 
-
-print(format1600("5:15.33"))
-
-timeList = [convertTime800("2:19.03"),"5:15.33", convertTime3200("11:33.2")]
-print(timeList)
-timeList.sort()
-print(timeList[0])
