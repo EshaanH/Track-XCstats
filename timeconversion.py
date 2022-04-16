@@ -10,6 +10,6 @@ def convertTime800(time, conversionFactor = 2.2):
     min, sec = divmod(convertedSec, 60)
     return "%d:%02d" % (min, sec)
 
-def format1600(time):
+def reformat(time):
     return time.split(".")[0]
 

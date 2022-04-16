@@ -135,20 +135,131 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
         eighttime = ""
         sixtime = ""
         thirtytime = ""
+        convertedeight = ""
+        convertedthirty = ""
 
         for event in doc.find_all('table', {"class" : "table table-sm histEvent"}):
             for event_name in event.find_all('h5', {"class" : "bold"}):
                 event_Name = (str(event_name.contents[0]))
                 if event_Name == "800 Meters":
                     eighttime = bestTime(event)
+                    convertedeight = timeconversion.convertTime800(eighttime)
+                    eighttime = timeconversion.reformat(eighttime)
                 if event_Name == "1600 Meters":
                     sixtime = bestTime(event)
+                    sixtime = timeconversion.reformat(sixtime)
                 if event_Name == "3200 Meters":
                     thirtytime = bestTime(event)
+                    convertedthirty = timeconversion.convertTime3200(thirtytime)
+                    thirtytime = timeconversion.reformat(thirtytime)
 
-        athleteStats = [athlete_name.strip(), link, actualgrade, XCtwomiletime, XCthreemiletime, eighttime, sixtime, thirtytime]
+        templist = [convertedeight, sixtime, convertedthirty]
+        timesList = []
+        for item in templist:
+            if item != "":
+                timesList.append(item)
+        timesList.sort()
+
+        athleteStats = [athlete_name.strip(), link, actualgrade, XCtwomiletime, XCthreemiletime, eighttime, convertedeight, sixtime, thirtytime, convertedthirty, timesList[0]]
         writer.writerow(athleteStats)
-        
+        writer.writerow("")
+        writer.writerow(["Year", "Date", "Race Distance", "Time", "Name of meet", "XC/Track", "Season", "Grade"])
+   
+        skipcount=1
+        for seasonTables in  doc.find("div", {"class" : "col-md-7 pull-md-5 col-xl-8 pull-xl-4 col-print-7 athleteResults"}):
+
+            for seasontable in seasonTables.find_all("div"):
+                if skipcount == 1:
+                    seasongrade = seasontable.find("h5")
+                    splitlist = str(seasongrade).split('>')
+                    season1 = splitlist[1].split('<')[0]
+                    season = season1.strip()
+                    year = season.split()[0]
+                    grade1 = splitlist[-4]
+                    grade = grade1.split('<')[0]
+                    skipcount = 0
+                else:
+                    skipcount =1 
+
+                relevantTimeList = []
+                shouldnext = True
+
+                for titles in seasontable.find_all("h5"):
+                    if titles.string == "800 Meters":
+                        relevantTimeList.append("800 Meters")
+                    elif titles.string == "1600 Meters":
+                        relevantTimeList.append("1600 Meters")
+                    elif titles.string == "3200 Meters":
+                        relevantTimeList.append("3200 Meters")
+                    else:
+                        relevantTimeList.append("Meh.")            
+                    
+                for item in relevantTimeList:
+                    if item == "800 Meters":
+                        shouldnext = False
+                    elif item == "1600 Meters":
+                        shouldnext = False
+                    elif item == "3200 Meters":
+                        shouldnext = False
+                
+                if shouldnext == True:
+                    continue
+                
+                timelistindex = 0
+                for item in relevantTimeList:
+                    if item == "800 Meters":
+                        eventlistindex =-1
+                        for eventTimes in seasontable.find_all('table', {'class' : 'table table-sm table-responsive table-hover'}):
+                            eventlistindex +=1
+                            if eventlistindex != timelistindex:
+                                continue
+
+                            for time in eventTimes.find_all("tr"):
+                                splitList = str(time).split('>')
+                                realTime1 = splitList[15]
+                                realTime2 = realTime1.split('<')[0]
+                                meet = splitList[-6]
+                                meet1 = meet.split('<')[0]
+                                date = splitList[-9]
+                                date1 = date.split('<')[0]
+                                writer.writerow([year, date1, "800 Meters", realTime2, meet1, "Track", season, grade])
+
+                    elif item == "1600 Meters":
+                        eventlistindex =-1
+                        for eventTimes in seasontable.find_all('table', {'class' : 'table table-sm table-responsive table-hover'}):
+                            eventlistindex +=1
+                            if eventlistindex != timelistindex:
+                                continue
+
+                            for time in eventTimes.find_all("tr"):
+                                splitList = str(time).split('>')
+                                realTime1 = splitList[15]
+                                realTime2 = realTime1.split('<')[0]
+                                meet = splitList[-6]
+                                meet1 = meet.split('<')[0]
+                                date = splitList[-9]
+                                date1 = date.split('<')[0]
+                                writer.writerow([year, date1, "1600 Meters", realTime2, meet1, "Track", season, grade])
+                    elif item == "3200 Meters":
+                        eventlistindex =-1
+                        for eventTimes in seasontable.find_all('table', {'class' : 'table table-sm table-responsive table-hover'}):
+                            eventlistindex +=1
+                            if eventlistindex != timelistindex:
+                                continue
+
+                            for time in eventTimes.find_all("tr"):
+                                splitList = str(time).split('>')
+                                realTime1 = splitList[15]
+                                realTime2 = realTime1.split('<')[0]
+                                meet = splitList[-6]
+                                meet1 = meet.split('<')[0]
+                                date = splitList[-9]
+                                date1 = date.split('<')[0]
+                                writer.writerow([year, date1, "3200 Meters", realTime2, meet1, "Track", season, grade])
+                    timelistindex +=1
+                    
+        writer.writerow("")
+
     file.close
 
 getTopSchool("1023")
