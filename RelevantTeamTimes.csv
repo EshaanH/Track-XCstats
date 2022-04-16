@@ -1,589 +1,589 @@
 Thomas Wedewer,Athlete.aspx?AID=15794057,11th Grade,11:33.2,17:29.6,2:19,5:05,5:15,11:23,5:17,5:05
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 10,800 Meters,2:23.43,EBAL: California - Foothill,Track,2022 Outdoor Season,11th Grade
-2022,Mar 23,800 Meters,2:19.03,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,11th Grade
-2022,Mar 3,1600 Meters,5:15.33,Cal High @ Saint Francis,Track,2022 Outdoor Season,11th Grade
-2022,Mar 5,1600 Meters,5:18.77,Dan Gabor Invitational,Track,2022 Outdoor Season,11th Grade
-2022,Mar 10,1600 Meters,5:18.81,EBAL: California - Foothill,Track,2022 Outdoor Season,11th Grade
-2022,Mar 23,1600 Meters,5:20.62,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,11th Grade
-2022,Feb 23,3200 Meters,11:34.17,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,11th Grade
-2022,Mar 5,3200 Meters,11:45.02,Dan Gabor Invitational,Track,2022 Outdoor Season,11th Grade
-2022,Mar 19,3200 Meters,11:23.56,Dublin Distance Fiesta,Track,2022 Outdoor Season,11th Grade
-2021,Apr 22,800 Meters,2:34.01,EBAL: Foothill - California,Track,2021 Outdoor Season,10th Grade
-2021,Apr 28,800 Meters,2:31.97,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,10th Grade
-2021,Apr 3,1600 Meters,5:15.66,Dan Gabor Invitational ,Track,2021 Outdoor Season,10th Grade
-2021,Apr 17,1600 Meters,5:20.14,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,10th Grade
-2021,Apr 22,1600 Meters,5:29.92,EBAL: Foothill - California,Track,2021 Outdoor Season,10th Grade
-2021,Apr 28,1600 Meters,5:29.29,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,10th Grade
-2021,May 8,1600 Meters,5:22.68,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,10th Grade
-2021,May 13,1600 Meters,5:23.09,EBAL: Livermore - California,Track,2021 Outdoor Season,10th Grade
-2021,Apr 17,3200 Meters,13:23.43,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,10th Grade
-2021,Apr 24,3200 Meters,11:30.28,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,10th Grade
-2021,May 8,3200 Meters,12:16.67,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,10th Grade
-2021,May 13,3200 Meters,12:45.80,EBAL: Livermore - California,Track,2021 Outdoor Season,10th Grade
-2020,Feb 27,800 Meters,2:31.00,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,9th Grade
-2020,Mar 5,800 Meters,2:27.44,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,9th Grade
-2020,Mar 12,800 Meters,2:34.12,EBAL California vs Foothill,Track,2020 Outdoor Season,9th Grade
-2020,Feb 27,1600 Meters,5:23.25,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,9th Grade
-2020,Mar 5,1600 Meters,5:22.90,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,9th Grade
-2020,Mar 12,1600 Meters,5:16.17,EBAL California vs Foothill,Track,2020 Outdoor Season,9th Grade
-2020,Mar 5,3200 Meters,11:54.42,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,9th Grade
-2020,Mar 12,3200 Meters,12:02.23,EBAL California vs Foothill,Track,2020 Outdoor Season,9th Grade
-2021,Sep 4,2 Miles,11:33.2,Cal High vs. DLS/CHS and DV,XC,2021 Season,11th Grade
-2021,Sep 18,2 Miles,12:18.7,De La Salle Nike Invitational,XC,2021 Season,11th Grade
-2021,Oct 2,3 Miles,17:29.6,"Amador Valley, Livermore, and Cal",XC,2021 Season,11th Grade
-2021,Oct 9,3 Miles,21:08.8,Castro Valley/Peter Brewer Cross Country Invitational,XC,2021 Season,11th Grade
-2021,Oct 16,3 Miles,18:51.1,38th Mariner-XC-Invitational,XC,2021 Season,11th Grade
-2021,Oct 16,3 Miles,18:51.1,38th P. Wilder Mariner XC Invitational,XC,2021 Season,11th Grade
-2021,Nov 6,3 Miles,18:33.2,EBAL Championship,XC,2021 Season,11th Grade
-2020,Feb 27,2 Miles,12:31.1,"Cal, DLS/CHS dual meet",XC,2020 Season,10th Grade
-2020,Feb 13,3 Miles,19:53.6,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,10th Grade
-2020,Mar 6,3 Miles,19:52.0,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,10th Grade
-2020,Mar 20,3 Miles,18:50.3,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,10th Grade
-2019,Sep 3,2 Miles,14:49.0,Monte Vista Invitational,XC,2019 Season,9th Grade
-2019,Sep 21,2 Miles,13:43.1,De La Salle Nike Invitational,XC,2019 Season,9th Grade
-2019,Oct 19,3 Miles,19:26.5,36th P.Wilder- Mariner XC Invitational,XC,2019 Season,9th Grade
-2019,Nov 9,3 Miles,18:56.7,EBAL Championship,XC,2019 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,800 Meters,2:23.43,Track,11th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:19.03,Track,11th Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,1600 Meters,5:15.33,Track,11th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,1600 Meters,5:18.77,Track,11th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,1600 Meters,5:18.81,Track,11th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,1600 Meters,5:20.62,Track,11th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,11:34.17,Track,11th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,3200 Meters,11:45.02,Track,11th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,3200 Meters,11:23.56,Track,11th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,800 Meters,2:34.01,Track,10th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:31.97,Track,10th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,5:15.66,Track,10th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,1600 Meters,5:20.14,Track,10th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,1600 Meters,5:29.92,Track,10th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,5:29.29,Track,10th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,5:22.68,Track,10th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,1600 Meters,5:23.09,Track,10th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,3200 Meters,13:23.43,Track,10th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,3200 Meters,11:30.28,Track,10th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,3200 Meters,12:16.67,Track,10th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,3200 Meters,12:45.80,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,800 Meters,2:31.00,Track,9th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,800 Meters,2:27.44,Track,9th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,800 Meters,2:34.12,Track,9th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,1600 Meters,5:23.25,Track,9th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,1600 Meters,5:22.90,Track,9th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,1600 Meters,5:16.17,Track,9th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,3200 Meters,11:54.42,Track,9th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,3200 Meters,12:02.23,Track,9th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,2 Miles,11:33.2,XC,11th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,2 Miles,12:18.7,XC,11th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,17:29.6,XC,11th Grade
+Castro Valley/Peter Brewer Cross Country Invitational,2021 Season,2021,Oct 9,3 Miles,21:08.8,XC,11th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,18:51.1,XC,11th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,18:51.1,XC,11th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,18:33.2,XC,11th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,2 Miles,12:31.1,XC,10th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,19:53.6,XC,10th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,19:52.0,XC,10th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,18:50.3,XC,10th Grade
+Monte Vista Invitational,2019 Season,2019,Sep 3,2 Miles,14:49.0,XC,9th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,2 Miles,13:43.1,XC,9th Grade
+36th P.Wilder- Mariner XC Invitational,2019 Season,2019,Oct 19,3 Miles,19:26.5,XC,9th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,18:56.7,XC,9th Grade
 
 Blake Lemmon,Athlete.aspx?AID=17578586,10th Grade,12:05.9,17:10.6,2:15,4:58,5:08,10:58,5:06,4:58
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 3,800 Meters,2:19.5h,Cal High @ Saint Francis,Track,2022 Outdoor Season,10th Grade
-2022,Mar 5,800 Meters,2:18.67,Dan Gabor Invitational,Track,2022 Outdoor Season,10th Grade
-2022,Mar 10,800 Meters,2:15.51,EBAL: California - Foothill,Track,2022 Outdoor Season,10th Grade
-2022,Mar 5,1600 Meters,5:12.98,Dan Gabor Invitational,Track,2022 Outdoor Season,10th Grade
-2022,Mar 23,1600 Meters,5:08.00,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,10th Grade
-2022,Feb 23,3200 Meters,11:49.66,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,10th Grade
-2022,Mar 19,3200 Meters,10:58.09,Dublin Distance Fiesta,Track,2022 Outdoor Season,10th Grade
-2021,Apr 3,800 Meters,DNS,Dan Gabor Invitational ,Track,2021 Outdoor Season,9th Grade
-2021,May 8,800 Meters,DNS,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,9th Grade
-2021,May 13,800 Meters,2:27.19,EBAL: Livermore - California,Track,2021 Outdoor Season,9th Grade
-2021,Apr 3,1600 Meters,DNS,Dan Gabor Invitational ,Track,2021 Outdoor Season,9th Grade
-2021,May 8,1600 Meters,5:37.89,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,9th Grade
-2021,Sep 4,2 Miles,12:05.9,Cal High vs. DLS/CHS and DV,XC,2021 Season,10th Grade
-2021,Sep 18,2 Miles,12:21.7,De La Salle Nike Invitational,XC,2021 Season,10th Grade
-2021,Oct 2,3 Miles,17:10.6,"Amador Valley, Livermore, and Cal",XC,2021 Season,10th Grade
-2021,Oct 9,3 Miles,19:25.5,Castro Valley/Peter Brewer Cross Country Invitational,XC,2021 Season,10th Grade
-2021,Oct 16,3 Miles,17:46.9,38th Mariner-XC-Invitational,XC,2021 Season,10th Grade
-2021,Oct 16,3 Miles,17:47.0,38th P. Wilder Mariner XC Invitational,XC,2021 Season,10th Grade
-2021,Nov 6,3 Miles,18:27.5,EBAL Championship,XC,2021 Season,10th Grade
-2020,Feb 27,2 Miles,12:27.6,"Cal, DLS/CHS dual meet",XC,2020 Season,9th Grade
-2020,Feb 13,3 Miles,19:45.1,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,9th Grade
-2020,Mar 6,3 Miles,19:11.6,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,9th Grade
-2020,Mar 20,3 Miles,18:39.4,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,800 Meters,2:19.5h,Track,10th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,800 Meters,2:18.67,Track,10th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,800 Meters,2:15.51,Track,10th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,1600 Meters,5:12.98,Track,10th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,1600 Meters,5:08.00,Track,10th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,11:49.66,Track,10th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,3200 Meters,10:58.09,Track,10th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,800 Meters,DNS,Track,9th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,800 Meters,DNS,Track,9th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,800 Meters,2:27.19,Track,9th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,DNS,Track,9th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,5:37.89,Track,9th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,2 Miles,12:05.9,XC,10th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,2 Miles,12:21.7,XC,10th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,17:10.6,XC,10th Grade
+Castro Valley/Peter Brewer Cross Country Invitational,2021 Season,2021,Oct 9,3 Miles,19:25.5,XC,10th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,17:46.9,XC,10th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,17:47.0,XC,10th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,18:27.5,XC,10th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,2 Miles,12:27.6,XC,9th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,19:45.1,XC,9th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,19:11.6,XC,9th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,18:39.4,XC,9th Grade
 
 Sean Neumann,Athlete.aspx?AID=11237593,12th Grade,12:10.6,17:08.5,2:25,5:20,5:55,12:11,5:40,5:20
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Feb 23,800 Meters,2:34.50,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,12th Grade
-2021,Apr 17,800 Meters,2:17.06,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,Apr 24,800 Meters,2:14.59,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,11th Grade
-2021,May 13,800 Meters,2:09.63,EBAL: Livermore - California,Track,2021 Outdoor Season,11th Grade
-2020,Mar 7,800 Meters,2:10.52,Dan Gabor Invitational,Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,800 Meters,2:11.98,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2019,Feb 28,800 Meters,2:21.70,"EBAL Dublin, Granada, Livermore, California",Track,2019 Outdoor Season,9th Grade
-2019,Mar 7,800 Meters,2:18.18,EBAL Foothill vs California,Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,800 Meters,2:23.55,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,800 Meters,2:16.57,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,800 Meters,2:23.53,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 13,800 Meters,2:13.32,Granada Distance &amp; Sprint Festival,Track,2019 Outdoor Season,9th Grade
-2019,Apr 27,800 Meters,2:11.51,EBAL Championship Trials,Track,2019 Outdoor Season,9th Grade
-2019,May 4,800 Meters,2:14.02,EBAL Championship Finals,Track,2019 Outdoor Season,9th Grade
-2019,Mar 9,1600 Meters,5:18.05,Wolf Pack Relays,Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,1600 Meters,5:21.51,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Mar 16,1600 Meters,5:06.65,Dublin Distance Fiesta,Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,1600 Meters,5:16.31,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 20,1600 Meters,5:16.47,Northern California Frosh/Soph Championships,Track,2019 Outdoor Season,9th Grade
-2019,Feb 28,3200 Meters,12:11.51,"EBAL Dublin, Granada, Livermore, California",Track,2019 Outdoor Season,9th Grade
-2019,Jun 9,800 Meters,DNS,PAC Championships Non-Qualifier,Track,2019 Outdoor Season,10th Grade
-2018,Apr 21,800 Meters,2:33.3h,Mount Diablo Heat Mini-Meet w Marin Waves,Track,2018 Outdoor Season,Age 13-14
-2018,May 20,800 Meters,2:25.59,3M TC Invitational,Track,2018 Outdoor Season,Age 13-14
-2018,Jun 10,800 Meters,2:34.24,Pacific Association Championships (Youth),Track,2018 Outdoor Season,Age 13-14
-2018,Jun 24,800 Meters,2:29.41,USATF Pacific Association Junior Olympic Championships,Track,2018 Outdoor Season,Age 13-14
-2018,Apr 21,1600 Meters,5:55.8h,Mount Diablo Heat Mini-Meet w Marin Waves,Track,2018 Outdoor Season,Age 13-14
-2017,May 21,800 Meters,2:38.80,Stockton Saints Invitational,Track,2017 Outdoor Season,Age 13-14
-2017,Mar 18,1600 Meters,6:06.60,Dublin Distance Fiesta,Track,2017 Outdoor Season,Age 13-14
-2021,Sep 18,2 Miles,12:10.6,De La Salle Nike Invitational,XC,2021 Season,12th Grade
-2021,Sep 4,3 Miles,17:57.0,Cal High vs. DLS/CHS and DV,XC,2021 Season,12th Grade
-2021,Oct 2,3 Miles,17:08.5,"Amador Valley, Livermore, and Cal",XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,17:25.0,38th Mariner-XC-Invitational,XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,17:25.1,38th P. Wilder Mariner XC Invitational,XC,2021 Season,12th Grade
-2021,Nov 6,3 Miles,17:47.0,EBAL Championship,XC,2021 Season,12th Grade
-2021,Nov 20,3 Miles,17:50.1,CIF North Coast Section Championship,XC,2021 Season,12th Grade
-2020,Feb 13,3 Miles,18:26.4,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,11th Grade
-2020,Feb 27,3 Miles,17:25.5,"Cal, DLS/CHS dual meet",XC,2020 Season,11th Grade
-2020,Mar 6,3 Miles,17:33.4,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,11th Grade
-2020,Mar 20,3 Miles,18:08.4,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,11th Grade
-2019,Sep 3,2 Miles,12:59.9,Monte Vista Invitational,XC,2019 Season,10th Grade
-2019,Sep 21,3 Miles,19:08.1,De La Salle Nike Invitational,XC,2019 Season,10th Grade
-2019,Oct 19,3 Miles,17:56.1,36th P.Wilder- Mariner XC Invitational,XC,2019 Season,10th Grade
-2019,Nov 9,3 Miles,18:02.4,EBAL Championship,XC,2019 Season,10th Grade
-2018,Sep 4,2 Miles,13:16.5,Monte Vista Invitational,XC,2018 Season,9th Grade
-2018,Sep 15,2 Miles,12:32.0,DLS Nike Invitational,XC,2018 Season,9th Grade
-2018,Oct 20,3 Miles,18:28.1,35th P-Wilder Mariner Invite,XC,2018 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,800 Meters,2:34.50,Track,12th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,800 Meters,2:17.06,Track,11th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,800 Meters,2:14.59,Track,11th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,800 Meters,2:09.63,Track,11th Grade
+Dan Gabor Invitational,2020 Outdoor Season,2020,Mar 7,800 Meters,2:10.52,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,800 Meters,2:11.98,Track,10th Grade
+"EBAL Dublin, Granada, Livermore, California",2019 Outdoor Season,2019,Feb 28,800 Meters,2:21.70,Track,9th Grade
+EBAL Foothill vs California,2019 Outdoor Season,2019,Mar 7,800 Meters,2:18.18,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,800 Meters,2:23.55,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,800 Meters,2:16.57,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,800 Meters,2:23.53,Track,9th Grade
+Granada Distance &amp; Sprint Festival,2019 Outdoor Season,2019,Apr 13,800 Meters,2:13.32,Track,9th Grade
+EBAL Championship Trials,2019 Outdoor Season,2019,Apr 27,800 Meters,2:11.51,Track,9th Grade
+EBAL Championship Finals,2019 Outdoor Season,2019,May 4,800 Meters,2:14.02,Track,9th Grade
+Wolf Pack Relays,2019 Outdoor Season,2019,Mar 9,1600 Meters,5:18.05,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,1600 Meters,5:21.51,Track,9th Grade
+Dublin Distance Fiesta,2019 Outdoor Season,2019,Mar 16,1600 Meters,5:06.65,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,1600 Meters,5:16.31,Track,9th Grade
+Northern California Frosh/Soph Championships,2019 Outdoor Season,2019,Apr 20,1600 Meters,5:16.47,Track,9th Grade
+"EBAL Dublin, Granada, Livermore, California",2019 Outdoor Season,2019,Feb 28,3200 Meters,12:11.51,Track,9th Grade
+PAC Championships Non-Qualifier,2019 Outdoor Season,2019,Jun 9,800 Meters,DNS,Track,10th Grade
+Mount Diablo Heat Mini-Meet w Marin Waves,2018 Outdoor Season,2018,Apr 21,800 Meters,2:33.3h,Track,Age 13-14
+3M TC Invitational,2018 Outdoor Season,2018,May 20,800 Meters,2:25.59,Track,Age 13-14
+Pacific Association Championships (Youth),2018 Outdoor Season,2018,Jun 10,800 Meters,2:34.24,Track,Age 13-14
+USATF Pacific Association Junior Olympic Championships,2018 Outdoor Season,2018,Jun 24,800 Meters,2:29.41,Track,Age 13-14
+Mount Diablo Heat Mini-Meet w Marin Waves,2018 Outdoor Season,2018,Apr 21,1600 Meters,5:55.8h,Track,Age 13-14
+Stockton Saints Invitational,2017 Outdoor Season,2017,May 21,800 Meters,2:38.80,Track,Age 13-14
+Dublin Distance Fiesta,2017 Outdoor Season,2017,Mar 18,1600 Meters,6:06.60,Track,Age 13-14
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,2 Miles,12:10.6,XC,12th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,3 Miles,17:57.0,XC,12th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,17:08.5,XC,12th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,17:25.0,XC,12th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,17:25.1,XC,12th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,17:47.0,XC,12th Grade
+CIF North Coast Section Championship,2021 Season,2021,Nov 20,3 Miles,17:50.1,XC,12th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,18:26.4,XC,11th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,3 Miles,17:25.5,XC,11th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,17:33.4,XC,11th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,18:08.4,XC,11th Grade
+Monte Vista Invitational,2019 Season,2019,Sep 3,2 Miles,12:59.9,XC,10th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,3 Miles,19:08.1,XC,10th Grade
+36th P.Wilder- Mariner XC Invitational,2019 Season,2019,Oct 19,3 Miles,17:56.1,XC,10th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,18:02.4,XC,10th Grade
+Monte Vista Invitational,2018 Season,2018,Sep 4,2 Miles,13:16.5,XC,9th Grade
+DLS Nike Invitational,2018 Season,2018,Sep 15,2 Miles,12:32.0,XC,9th Grade
+35th P-Wilder Mariner Invite,2018 Season,2018,Oct 20,3 Miles,18:28.1,XC,9th Grade
 
 Eshaan Hussain,Athlete.aspx?AID=18786652,9th Grade,12:15.2,17:22.0,2:15,4:57,4:51,10:15,4:46,4:46
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 10,800 Meters,2:19.96,EBAL: California - Foothill,Track,2022 Outdoor Season,9th Grade
-2022,Mar 23,800 Meters,2:15.18,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,9th Grade
-2022,Mar 3,1600 Meters,4:56.99,Cal High @ Saint Francis,Track,2022 Outdoor Season,9th Grade
-2022,Mar 5,1600 Meters,DNS,Dan Gabor Invitational,Track,2022 Outdoor Season,9th Grade
-2022,Mar 10,1600 Meters,4:51.66,EBAL: California - Foothill,Track,2022 Outdoor Season,9th Grade
-2022,Feb 23,3200 Meters,10:31.60,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,9th Grade
-2022,Mar 5,3200 Meters,10:33.36,Dan Gabor Invitational,Track,2022 Outdoor Season,9th Grade
-2022,Mar 19,3200 Meters,10:15.00,Dublin Distance Fiesta,Track,2022 Outdoor Season,9th Grade
-2021,Sep 4,2 Miles,12:15.2,Cal High vs. DLS/CHS and DV,XC,2021 Season,9th Grade
-2021,Sep 18,2 Miles,12:31.7,De La Salle Nike Invitational,XC,2021 Season,9th Grade
-2021,Oct 2,3 Miles,17:53.2,"Amador Valley, Livermore, and Cal",XC,2021 Season,9th Grade
-2021,Oct 9,3 Miles,19:49.8,Castro Valley/Peter Brewer Cross Country Invitational,XC,2021 Season,9th Grade
-2021,Oct 16,3 Miles,18:06.0,38th P. Wilder Mariner XC Invitational,XC,2021 Season,9th Grade
-2021,Oct 16,3 Miles,18:06.0,38th Mariner-XC-Invitational,XC,2021 Season,9th Grade
-2021,Nov 6,3 Miles,18:04.5,EBAL Championship,XC,2021 Season,9th Grade
-2021,Nov 20,3 Miles,17:22.0,CIF North Coast Section Championship,XC,2021 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,800 Meters,2:19.96,Track,9th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:15.18,Track,9th Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,1600 Meters,4:56.99,Track,9th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,1600 Meters,DNS,Track,9th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,1600 Meters,4:51.66,Track,9th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,10:31.60,Track,9th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,3200 Meters,10:33.36,Track,9th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,3200 Meters,10:15.00,Track,9th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,2 Miles,12:15.2,XC,9th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,2 Miles,12:31.7,XC,9th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,17:53.2,XC,9th Grade
+Castro Valley/Peter Brewer Cross Country Invitational,2021 Season,2021,Oct 9,3 Miles,19:49.8,XC,9th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,18:06.0,XC,9th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,18:06.0,XC,9th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,18:04.5,XC,9th Grade
+CIF North Coast Section Championship,2021 Season,2021,Nov 20,3 Miles,17:22.0,XC,9th Grade
 
 Varun Venkatesh,Athlete.aspx?AID=17578688,10th Grade,12:23.3,17:53.4,2:18,5:04,5:23,11:08,5:10,5:04
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 3,800 Meters,2:28.7h,Cal High @ Saint Francis,Track,2022 Outdoor Season,10th Grade
-2022,Mar 10,800 Meters,2:20.44,EBAL: California - Foothill,Track,2022 Outdoor Season,10th Grade
-2022,Mar 23,800 Meters,2:18.49,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,10th Grade
-2022,Mar 5,1600 Meters,5:23.45,Clayton Valley Ugly Eagles Relays,Track,2022 Outdoor Season,10th Grade
-2022,Mar 23,1600 Meters,5:41.26,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,10th Grade
-2022,Feb 23,3200 Meters,11:34.89,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,10th Grade
-2022,Mar 19,3200 Meters,11:08.38,Dublin Distance Fiesta,Track,2022 Outdoor Season,10th Grade
-2021,Apr 28,800 Meters,2:32.75,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,9th Grade
-2021,Apr 3,1600 Meters,5:35.12,Dan Gabor Invitational ,Track,2021 Outdoor Season,9th Grade
-2021,Apr 22,1600 Meters,5:32.76,EBAL: Foothill - California,Track,2021 Outdoor Season,9th Grade
-2021,Apr 28,1600 Meters,5:48.30,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,9th Grade
-2021,May 13,1600 Meters,5:38.67,EBAL: Livermore - California,Track,2021 Outdoor Season,9th Grade
-2021,Sep 18,2 Miles,12:23.3,De La Salle Nike Invitational,XC,2021 Season,10th Grade
-2021,Oct 2,3 Miles,17:53.4,"Amador Valley, Livermore, and Cal",XC,2021 Season,10th Grade
-2021,Oct 9,3 Miles,20:32.2,Castro Valley/Peter Brewer Cross Country Invitational,XC,2021 Season,10th Grade
-2021,Nov 6,3 Miles,19:04.5,EBAL Championship,XC,2021 Season,10th Grade
-2020,Feb 13,3 Miles,20:29.2,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,9th Grade
-2020,Mar 6,3 Miles,19:42.8,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,9th Grade
-2020,Mar 20,3 Miles,18:54.5,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,800 Meters,2:28.7h,Track,10th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,800 Meters,2:20.44,Track,10th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:18.49,Track,10th Grade
+Clayton Valley Ugly Eagles Relays,2022 Outdoor Season,2022,Mar 5,1600 Meters,5:23.45,Track,10th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,1600 Meters,5:41.26,Track,10th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,11:34.89,Track,10th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,3200 Meters,11:08.38,Track,10th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:32.75,Track,9th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,5:35.12,Track,9th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,1600 Meters,5:32.76,Track,9th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,5:48.30,Track,9th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,1600 Meters,5:38.67,Track,9th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,2 Miles,12:23.3,XC,10th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,17:53.4,XC,10th Grade
+Castro Valley/Peter Brewer Cross Country Invitational,2021 Season,2021,Oct 9,3 Miles,20:32.2,XC,10th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,19:04.5,XC,10th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,20:29.2,XC,9th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,19:42.8,XC,9th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,18:54.5,XC,9th Grade
 
 Matthew Alm,Athlete.aspx?AID=14014172,12th Grade,11:18.1,15:40.0,2:03,4:32,4:25,9:46,4:32,4:25
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 3,800 Meters,2:11.5h,Cal High @ Saint Francis,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,800 Meters,2:06.35,Dan Gabor Invitational,Track,2022 Outdoor Season,12th Grade
-2022,Mar 23,800 Meters,2:03.74,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,1600 Meters,4:30.13,Dan Gabor Invitational,Track,2022 Outdoor Season,12th Grade
-2022,Mar 10,1600 Meters,5:00.91,EBAL: California - Foothill,Track,2022 Outdoor Season,12th Grade
-2022,Apr 2,1600 Meters,4:25.89,West Coast Relays,Track,2022 Outdoor Season,12th Grade
-2022,Feb 23,3200 Meters,10:19.78,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,12th Grade
-2022,Mar 19,3200 Meters,9:46.55,Dublin Distance Fiesta,Track,2022 Outdoor Season,12th Grade
-2022,Mar 23,3200 Meters,12:57.31,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,12th Grade
-2021,Apr 28,800 Meters,2:10.89,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 13,800 Meters,2:05.54,EBAL: Livermore - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 3,1600 Meters,4:45.30,Dan Gabor Invitational ,Track,2021 Outdoor Season,11th Grade
-2021,Apr 17,1600 Meters,4:40.17,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,Apr 22,1600 Meters,5:02.53,EBAL: Foothill - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,1600 Meters,4:54.79,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 8,1600 Meters,4:38.34,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,11th Grade
-2021,May 15,1600 Meters,4:35.28,Granada Sprint &amp; Distance Festival,Track,2021 Outdoor Season,11th Grade
-2021,May 22,1600 Meters,4:30.63,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,11th Grade
-2021,May 29,1600 Meters,4:29.78,Tri-Valley Track Championships,Track,2021 Outdoor Season,11th Grade
-2021,Apr 24,3200 Meters,9:50.47,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,11th Grade
-2021,May 22,3200 Meters,9:53.97,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,11th Grade
-2020,Feb 27,800 Meters,2:10.42,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,800 Meters,2:10.16,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2020,Feb 27,1600 Meters,4:40.83,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 5,1600 Meters,4:52.29,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,10th Grade
-2020,Mar 7,3200 Meters,9:50.49,Dan Gabor Invitational,Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,3200 Meters,10:45.45,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2019,Feb 21,800 Meters,2:22.46,"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,800 Meters,2:31.83,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,800 Meters,2:14.86,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,800 Meters,2:34.90,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2019,Mar 7,1600 Meters,5:17.80,EBAL Foothill vs California,Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,1600 Meters,4:56.71,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,1600 Meters,5:02.82,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,1600 Meters,4:47.36,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2019,Apr 27,1600 Meters,4:51.89,EBAL Championship Trials,Track,2019 Outdoor Season,9th Grade
-2019,May 4,1600 Meters,4:43.34,EBAL Championship Finals,Track,2019 Outdoor Season,9th Grade
-2019,Feb 21,3200 Meters,10:40.20,"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",Track,2019 Outdoor Season,9th Grade
-2019,Mar 16,3200 Meters,10:26.60,Dublin Distance Fiesta,Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,3200 Meters,10:24.38,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,3200 Meters,10:48.03,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 13,3200 Meters,10:12.24,Granada Distance &amp; Sprint Festival,Track,2019 Outdoor Season,9th Grade
-2019,Apr 20,3200 Meters,10:15.21,Northern California Frosh/Soph Championships,Track,2019 Outdoor Season,9th Grade
-2019,Apr 27,3200 Meters,10:19.52,EBAL Championship Trials,Track,2019 Outdoor Season,9th Grade
-2021,Sep 4,3 Miles,15:59.1,Cal High vs. DLS/CHS and DV,XC,2021 Season,12th Grade
-2021,Sep 18,3 Miles,16:45.3,De La Salle Nike Invitational,XC,2021 Season,12th Grade
-2021,Oct 2,3 Miles,15:40.0,"Amador Valley, Livermore, and Cal",XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,16:26.9,38th Mariner-XC-Invitational,XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,16:27.0,38th P. Wilder Mariner XC Invitational,XC,2021 Season,12th Grade
-2021,Nov 6,3 Miles,16:51.0,EBAL Championship,XC,2021 Season,12th Grade
-2021,Nov 20,3 Miles,16:26.4,CIF North Coast Section Championship,XC,2021 Season,12th Grade
-2020,Mar 20,3 Miles,16:38.0,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,11th Grade
-2019,Sep 3,2 Miles,11:31.5,Monte Vista Invitational,XC,2019 Season,10th Grade
-2019,Sep 21,3 Miles,16:28.4,De La Salle Nike Invitational,XC,2019 Season,10th Grade
-2019,Oct 19,3 Miles,16:02.7,36th P.Wilder- Mariner XC Invitational,XC,2019 Season,10th Grade
-2019,Nov 9,3 Miles,15:51.2,EBAL Championship,XC,2019 Season,10th Grade
-2019,Nov 23,3 Miles,15:50.1,CIF North Coast Section Championship,XC,2019 Season,10th Grade
-2018,Sep 15,2 Miles,11:18.1,DLS Nike Invitational,XC,2018 Season,9th Grade
-2018,Oct 20,3 Miles,16:17.3,35th P-Wilder Mariner Invite,XC,2018 Season,9th Grade
-2018,Nov 20,3 Miles,16:16.0,NCS Finals,XC,2018 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,800 Meters,2:11.5h,Track,12th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,800 Meters,2:06.35,Track,12th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:03.74,Track,12th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,1600 Meters,4:30.13,Track,12th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,1600 Meters,5:00.91,Track,12th Grade
+West Coast Relays,2022 Outdoor Season,2022,Apr 2,1600 Meters,4:25.89,Track,12th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,10:19.78,Track,12th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,3200 Meters,9:46.55,Track,12th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,3200 Meters,12:57.31,Track,12th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:10.89,Track,11th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,800 Meters,2:05.54,Track,11th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,4:45.30,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,1600 Meters,4:40.17,Track,11th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,1600 Meters,5:02.53,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,4:54.79,Track,11th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,4:38.34,Track,11th Grade
+Granada Sprint &amp; Distance Festival,2021 Outdoor Season,2021,May 15,1600 Meters,4:35.28,Track,11th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,1600 Meters,4:30.63,Track,11th Grade
+Tri-Valley Track Championships,2021 Outdoor Season,2021,May 29,1600 Meters,4:29.78,Track,11th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,3200 Meters,9:50.47,Track,11th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,3200 Meters,9:53.97,Track,11th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,800 Meters,2:10.42,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,800 Meters,2:10.16,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,1600 Meters,4:40.83,Track,10th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,1600 Meters,4:52.29,Track,10th Grade
+Dan Gabor Invitational,2020 Outdoor Season,2020,Mar 7,3200 Meters,9:50.49,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,3200 Meters,10:45.45,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",2019 Outdoor Season,2019,Feb 21,800 Meters,2:22.46,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,800 Meters,2:31.83,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,800 Meters,2:14.86,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,800 Meters,2:34.90,Track,9th Grade
+EBAL Foothill vs California,2019 Outdoor Season,2019,Mar 7,1600 Meters,5:17.80,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,1600 Meters,4:56.71,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,1600 Meters,5:02.82,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,1600 Meters,4:47.36,Track,9th Grade
+EBAL Championship Trials,2019 Outdoor Season,2019,Apr 27,1600 Meters,4:51.89,Track,9th Grade
+EBAL Championship Finals,2019 Outdoor Season,2019,May 4,1600 Meters,4:43.34,Track,9th Grade
+"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",2019 Outdoor Season,2019,Feb 21,3200 Meters,10:40.20,Track,9th Grade
+Dublin Distance Fiesta,2019 Outdoor Season,2019,Mar 16,3200 Meters,10:26.60,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,3200 Meters,10:24.38,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,3200 Meters,10:48.03,Track,9th Grade
+Granada Distance &amp; Sprint Festival,2019 Outdoor Season,2019,Apr 13,3200 Meters,10:12.24,Track,9th Grade
+Northern California Frosh/Soph Championships,2019 Outdoor Season,2019,Apr 20,3200 Meters,10:15.21,Track,9th Grade
+EBAL Championship Trials,2019 Outdoor Season,2019,Apr 27,3200 Meters,10:19.52,Track,9th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,3 Miles,15:59.1,XC,12th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,3 Miles,16:45.3,XC,12th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,15:40.0,XC,12th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,16:26.9,XC,12th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,16:27.0,XC,12th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,16:51.0,XC,12th Grade
+CIF North Coast Section Championship,2021 Season,2021,Nov 20,3 Miles,16:26.4,XC,12th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,16:38.0,XC,11th Grade
+Monte Vista Invitational,2019 Season,2019,Sep 3,2 Miles,11:31.5,XC,10th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,3 Miles,16:28.4,XC,10th Grade
+36th P.Wilder- Mariner XC Invitational,2019 Season,2019,Oct 19,3 Miles,16:02.7,XC,10th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,15:51.2,XC,10th Grade
+CIF North Coast Section Championship,2019 Season,2019,Nov 23,3 Miles,15:50.1,XC,10th Grade
+DLS Nike Invitational,2018 Season,2018,Sep 15,2 Miles,11:18.1,XC,9th Grade
+35th P-Wilder Mariner Invite,2018 Season,2018,Oct 20,3 Miles,16:17.3,XC,9th Grade
+NCS Finals,2018 Season,2018,Nov 20,3 Miles,16:16.0,XC,9th Grade
 
 Ryan Dube,Athlete.aspx?AID=14014170,12th Grade,12:03.5,15:46.6,2:04,4:34,4:26,9:50,4:34,4:26
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 3,800 Meters,2:11.0h,Cal High @ Saint Francis,Track,2022 Outdoor Season,12th Grade
-2022,Mar 10,800 Meters,2:09.75,EBAL: California - Foothill,Track,2022 Outdoor Season,12th Grade
-2022,Mar 23,800 Meters,2:04.56,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,1600 Meters,4:32.65,Dan Gabor Invitational,Track,2022 Outdoor Season,12th Grade
-2022,Apr 2,1600 Meters,4:26.91,West Coast Relays,Track,2022 Outdoor Season,12th Grade
-2022,Feb 23,3200 Meters,10:26.46,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,3200 Meters,10:41.98,Dan Gabor Invitational,Track,2022 Outdoor Season,12th Grade
-2022,Mar 19,3200 Meters,9:50.60,Dublin Distance Fiesta,Track,2022 Outdoor Season,12th Grade
-2021,Apr 22,800 Meters,2:11.33,EBAL: Foothill - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,800 Meters,2:12.97,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 13,800 Meters,2:06.69,EBAL: Livermore - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 3,1600 Meters,4:46.07,Dan Gabor Invitational ,Track,2021 Outdoor Season,11th Grade
-2021,Apr 17,1600 Meters,4:44.53,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,1600 Meters,DNF,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 8,1600 Meters,4:46.68,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,11th Grade
-2021,May 15,1600 Meters,4:38.38,Granada Sprint &amp; Distance Festival,Track,2021 Outdoor Season,11th Grade
-2021,May 29,1600 Meters,4:42.18,Tri-Valley Track Championships,Track,2021 Outdoor Season,11th Grade
-2021,Apr 17,3200 Meters,11:17.83,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,Apr 24,3200 Meters,10:10.48,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,11th Grade
-2021,May 22,3200 Meters,10:21.58,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,11th Grade
-2020,Feb 27,800 Meters,2:15.59,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 5,800 Meters,2:13.24,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,10th Grade
-2020,Feb 27,1600 Meters,4:49.65,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 7,1600 Meters,4:48.24,Dan Gabor Invitational,Track,2020 Outdoor Season,10th Grade
-2020,Mar 5,3200 Meters,15:02.13,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,10th Grade
-2020,Mar 7,3200 Meters,10:29.74,Dan Gabor Invitational,Track,2020 Outdoor Season,10th Grade
-2019,Feb 21,800 Meters,2:26.47,"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",Track,2019 Outdoor Season,9th Grade
-2019,Feb 28,800 Meters,2:30.33,"EBAL Dublin, Granada, Livermore, California",Track,2019 Outdoor Season,9th Grade
-2019,Mar 7,800 Meters,2:29.23,EBAL Foothill vs California,Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,800 Meters,2:30.06,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,800 Meters,2:20.35,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,800 Meters,2:23.93,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,800 Meters,2:17.91,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2019,Feb 28,1600 Meters,5:05.03,"EBAL Dublin, Granada, Livermore, California",Track,2019 Outdoor Season,9th Grade
-2019,Mar 2,1600 Meters,4:58.79,Dan Gabor Invitational,Track,2019 Outdoor Season,9th Grade
-2019,Mar 7,1600 Meters,5:12.05,EBAL Foothill vs California,Track,2019 Outdoor Season,9th Grade
-2019,Mar 9,1600 Meters,5:06.33,Wolf Pack Relays,Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,1600 Meters,5:18.08,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Mar 16,1600 Meters,4:58.41,Dublin Distance Fiesta,Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,1600 Meters,6:58.46,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2019,Apr 20,1600 Meters,5:05.51,Northern California Frosh/Soph Championships,Track,2019 Outdoor Season,9th Grade
-2019,Feb 21,3200 Meters,11:02.70,"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,3200 Meters,10:41.46,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 27,3200 Meters,10:59.96,EBAL Championship Trials,Track,2019 Outdoor Season,9th Grade
-2021,Sep 4,3 Miles,16:10.1,Cal High vs. DLS/CHS and DV,XC,2021 Season,12th Grade
-2021,Sep 18,3 Miles,16:41.4,De La Salle Nike Invitational,XC,2021 Season,12th Grade
-2021,Oct 2,3 Miles,15:46.6,"Amador Valley, Livermore, and Cal",XC,2021 Season,12th Grade
-2021,Nov 6,3 Miles,16:52.2,EBAL Championship,XC,2021 Season,12th Grade
-2021,Nov 20,3 Miles,16:06.7,CIF North Coast Section Championship,XC,2021 Season,12th Grade
-2020,Feb 13,3 Miles,,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,11th Grade
-2020,Mar 6,3 Miles,17:05.1,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,11th Grade
-2020,Mar 20,3 Miles,16:36.7,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,11th Grade
-2019,Sep 3,2 Miles,12:03.5,Monte Vista Invitational,XC,2019 Season,10th Grade
-2019,Sep 21,3 Miles,17:42.9,De La Salle Nike Invitational,XC,2019 Season,10th Grade
-2019,Oct 19,3 Miles,17:00.1,36th P.Wilder- Mariner XC Invitational,XC,2019 Season,10th Grade
-2019,Nov 9,3 Miles,16:17.4,EBAL Championship,XC,2019 Season,10th Grade
-2019,Nov 23,3 Miles,16:50.7,CIF North Coast Section Championship,XC,2019 Season,10th Grade
-2018,Sep 4,2 Miles,12:45.0,Monte Vista Invitational,XC,2018 Season,9th Grade
-2018,Sep 15,3 Miles,18:19.9,DLS Nike Invitational,XC,2018 Season,9th Grade
-2018,Oct 20,3 Miles,16:55.1,35th P-Wilder Mariner Invite,XC,2018 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,800 Meters,2:11.0h,Track,12th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,800 Meters,2:09.75,Track,12th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:04.56,Track,12th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,1600 Meters,4:32.65,Track,12th Grade
+West Coast Relays,2022 Outdoor Season,2022,Apr 2,1600 Meters,4:26.91,Track,12th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,10:26.46,Track,12th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,3200 Meters,10:41.98,Track,12th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,3200 Meters,9:50.60,Track,12th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,800 Meters,2:11.33,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:12.97,Track,11th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,800 Meters,2:06.69,Track,11th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,4:46.07,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,1600 Meters,4:44.53,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,DNF,Track,11th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,4:46.68,Track,11th Grade
+Granada Sprint &amp; Distance Festival,2021 Outdoor Season,2021,May 15,1600 Meters,4:38.38,Track,11th Grade
+Tri-Valley Track Championships,2021 Outdoor Season,2021,May 29,1600 Meters,4:42.18,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,3200 Meters,11:17.83,Track,11th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,3200 Meters,10:10.48,Track,11th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,3200 Meters,10:21.58,Track,11th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,800 Meters,2:15.59,Track,10th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,800 Meters,2:13.24,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,1600 Meters,4:49.65,Track,10th Grade
+Dan Gabor Invitational,2020 Outdoor Season,2020,Mar 7,1600 Meters,4:48.24,Track,10th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,3200 Meters,15:02.13,Track,10th Grade
+Dan Gabor Invitational,2020 Outdoor Season,2020,Mar 7,3200 Meters,10:29.74,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",2019 Outdoor Season,2019,Feb 21,800 Meters,2:26.47,Track,9th Grade
+"EBAL Dublin, Granada, Livermore, California",2019 Outdoor Season,2019,Feb 28,800 Meters,2:30.33,Track,9th Grade
+EBAL Foothill vs California,2019 Outdoor Season,2019,Mar 7,800 Meters,2:29.23,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,800 Meters,2:30.06,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,800 Meters,2:20.35,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,800 Meters,2:23.93,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,800 Meters,2:17.91,Track,9th Grade
+"EBAL Dublin, Granada, Livermore, California",2019 Outdoor Season,2019,Feb 28,1600 Meters,5:05.03,Track,9th Grade
+Dan Gabor Invitational,2019 Outdoor Season,2019,Mar 2,1600 Meters,4:58.79,Track,9th Grade
+EBAL Foothill vs California,2019 Outdoor Season,2019,Mar 7,1600 Meters,5:12.05,Track,9th Grade
+Wolf Pack Relays,2019 Outdoor Season,2019,Mar 9,1600 Meters,5:06.33,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,1600 Meters,5:18.08,Track,9th Grade
+Dublin Distance Fiesta,2019 Outdoor Season,2019,Mar 16,1600 Meters,4:58.41,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,1600 Meters,6:58.46,Track,9th Grade
+Northern California Frosh/Soph Championships,2019 Outdoor Season,2019,Apr 20,1600 Meters,5:05.51,Track,9th Grade
+"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",2019 Outdoor Season,2019,Feb 21,3200 Meters,11:02.70,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,3200 Meters,10:41.46,Track,9th Grade
+EBAL Championship Trials,2019 Outdoor Season,2019,Apr 27,3200 Meters,10:59.96,Track,9th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,3 Miles,16:10.1,XC,12th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,3 Miles,16:41.4,XC,12th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,15:46.6,XC,12th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,16:52.2,XC,12th Grade
+CIF North Coast Section Championship,2021 Season,2021,Nov 20,3 Miles,16:06.7,XC,12th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,,XC,11th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,17:05.1,XC,11th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,16:36.7,XC,11th Grade
+Monte Vista Invitational,2019 Season,2019,Sep 3,2 Miles,12:03.5,XC,10th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,3 Miles,17:42.9,XC,10th Grade
+36th P.Wilder- Mariner XC Invitational,2019 Season,2019,Oct 19,3 Miles,17:00.1,XC,10th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,16:17.4,XC,10th Grade
+CIF North Coast Section Championship,2019 Season,2019,Nov 23,3 Miles,16:50.7,XC,10th Grade
+Monte Vista Invitational,2018 Season,2018,Sep 4,2 Miles,12:45.0,XC,9th Grade
+DLS Nike Invitational,2018 Season,2018,Sep 15,3 Miles,18:19.9,XC,9th Grade
+35th P-Wilder Mariner Invite,2018 Season,2018,Oct 20,3 Miles,16:55.1,XC,9th Grade
 
 Andrew Pruitt,Athlete.aspx?AID=17578596,10th Grade,11:43.6,15:49.6,2:15,4:58,4:38,10:07,4:42,4:38
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 10,800 Meters,2:15.66,EBAL: California - Foothill,Track,2022 Outdoor Season,10th Grade
-2022,Mar 23,800 Meters,2:18.18,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,10th Grade
-2022,Mar 3,1600 Meters,4:45.99,Cal High @ Saint Francis,Track,2022 Outdoor Season,10th Grade
-2022,Mar 10,1600 Meters,4:44.69,EBAL: California - Foothill,Track,2022 Outdoor Season,10th Grade
-2022,Mar 19,1600 Meters,4:38.00,Dublin Distance Fiesta,Track,2022 Outdoor Season,10th Grade
-2022,Mar 23,1600 Meters,5:03.25,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,10th Grade
-2022,Feb 23,3200 Meters,10:23.38,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,10th Grade
-2022,Mar 5,3200 Meters,10:07.40,Dan Gabor Invitational,Track,2022 Outdoor Season,10th Grade
-2021,Apr 28,800 Meters,2:20.98,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,9th Grade
-2021,Apr 3,1600 Meters,5:05.26,Dan Gabor Invitational ,Track,2021 Outdoor Season,9th Grade
-2021,Apr 22,1600 Meters,5:33.72,EBAL: Foothill - California,Track,2021 Outdoor Season,9th Grade
-2021,Apr 28,1600 Meters,5:12.03,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,9th Grade
-2021,May 13,1600 Meters,4:52.01,EBAL: Livermore - California,Track,2021 Outdoor Season,9th Grade
-2021,Apr 17,3200 Meters,11:11.60,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,9th Grade
-2021,Apr 24,3200 Meters,10:48.75,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,9th Grade
-2021,May 8,3200 Meters,10:52.56,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,9th Grade
-2021,May 15,3200 Meters,10:41.12,Granada Sprint &amp; Distance Festival,Track,2021 Outdoor Season,9th Grade
-2021,May 22,3200 Meters,10:28.78,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,9th Grade
-2021,Sep 4,3 Miles,16:17.3,Cal High vs. DLS/CHS and DV,XC,2021 Season,10th Grade
-2021,Sep 18,3 Miles,17:09.3,De La Salle Nike Invitational,XC,2021 Season,10th Grade
-2021,Oct 2,3 Miles,15:49.6,"Amador Valley, Livermore, and Cal",XC,2021 Season,10th Grade
-2021,Oct 16,3 Miles,16:14.9,38th Mariner-XC-Invitational,XC,2021 Season,10th Grade
-2021,Oct 16,3 Miles,16:15.0,38th P. Wilder Mariner XC Invitational,XC,2021 Season,10th Grade
-2021,Nov 6,3 Miles,16:52.6,EBAL Championship,XC,2021 Season,10th Grade
-2021,Nov 20,3 Miles,16:19.3,CIF North Coast Section Championship,XC,2021 Season,10th Grade
-2020,Feb 27,2 Miles,11:43.6,"Cal, DLS/CHS dual meet",XC,2020 Season,9th Grade
-2020,Feb 13,3 Miles,18:37.2,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,9th Grade
-2020,Mar 6,3 Miles,,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,9th Grade
-2020,Mar 20,3 Miles,17:41.9,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,800 Meters,2:15.66,Track,10th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:18.18,Track,10th Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,1600 Meters,4:45.99,Track,10th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,1600 Meters,4:44.69,Track,10th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,1600 Meters,4:38.00,Track,10th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,1600 Meters,5:03.25,Track,10th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,10:23.38,Track,10th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,3200 Meters,10:07.40,Track,10th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:20.98,Track,9th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,5:05.26,Track,9th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,1600 Meters,5:33.72,Track,9th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,5:12.03,Track,9th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,1600 Meters,4:52.01,Track,9th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,3200 Meters,11:11.60,Track,9th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,3200 Meters,10:48.75,Track,9th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,3200 Meters,10:52.56,Track,9th Grade
+Granada Sprint &amp; Distance Festival,2021 Outdoor Season,2021,May 15,3200 Meters,10:41.12,Track,9th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,3200 Meters,10:28.78,Track,9th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,3 Miles,16:17.3,XC,10th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,3 Miles,17:09.3,XC,10th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,15:49.6,XC,10th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,16:14.9,XC,10th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,16:15.0,XC,10th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,16:52.6,XC,10th Grade
+CIF North Coast Section Championship,2021 Season,2021,Nov 20,3 Miles,16:19.3,XC,10th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,2 Miles,11:43.6,XC,9th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,18:37.2,XC,9th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,,XC,9th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,17:41.9,XC,9th Grade
 
 Armaan Hussain,Athlete.aspx?AID=15937044,12th Grade,,16:13.3,2:08,4:42,4:48,10:29,4:52,4:42
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 3,800 Meters,2:12.3h,Cal High @ Saint Francis,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,800 Meters,2:08.66,Dan Gabor Invitational,Track,2022 Outdoor Season,12th Grade
-2022,Mar 19,800 Meters,DNS,Dublin Distance Fiesta,Track,2022 Outdoor Season,12th Grade
-2022,Mar 23,800 Meters,2:11.26,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,1600 Meters,4:48.99,Dan Gabor Invitational,Track,2022 Outdoor Season,12th Grade
-2022,Mar 10,1600 Meters,5:04.11,EBAL: California - Foothill,Track,2022 Outdoor Season,12th Grade
-2022,Mar 19,1600 Meters,4:48.24,Dublin Distance Fiesta,Track,2022 Outdoor Season,12th Grade
-2022,Feb 23,3200 Meters,10:29.15,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,12th Grade
-2021,Apr 3,800 Meters,2:14.62,Dan Gabor Invitational ,Track,2021 Outdoor Season,11th Grade
-2021,Apr 17,800 Meters,2:10.85,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,Apr 22,800 Meters,2:15.90,EBAL: Foothill - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,800 Meters,2:18.70,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 13,800 Meters,2:08.56,EBAL: Livermore - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 3,1600 Meters,4:55.21,Dan Gabor Invitational ,Track,2021 Outdoor Season,11th Grade
-2021,Apr 24,1600 Meters,4:57.19,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,11th Grade
-2021,May 8,1600 Meters,4:53.29,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,11th Grade
-2021,May 22,1600 Meters,4:53.99,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,11th Grade
-2021,Apr 17,3200 Meters,12:17.25,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,May 15,3200 Meters,10:50.69,Granada Sprint &amp; Distance Festival,Track,2021 Outdoor Season,11th Grade
-2021,Sep 4,3 Miles,16:42.2,Cal High vs. DLS/CHS and DV,XC,2021 Season,12th Grade
-2021,Sep 18,3 Miles,17:07.0,De La Salle Nike Invitational,XC,2021 Season,12th Grade
-2021,Oct 2,3 Miles,16:18.1,"Amador Valley, Livermore, and Cal",XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,16:13.3,38th Mariner-XC-Invitational,XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,16:13.4,38th P. Wilder Mariner XC Invitational,XC,2021 Season,12th Grade
-2021,Nov 6,3 Miles,16:51.7,EBAL Championship,XC,2021 Season,12th Grade
-2021,Nov 20,3 Miles,16:18.5,CIF North Coast Section Championship,XC,2021 Season,12th Grade
-2020,Feb 13,3 Miles,18:13.1,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,11th Grade
-2020,Feb 27,3 Miles,17:09.3,"Cal, DLS/CHS dual meet",XC,2020 Season,11th Grade
-2020,Mar 6,3 Miles,17:25.7,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,11th Grade
-2020,Mar 20,3 Miles,17:11.2,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,11th Grade
-2019,Sep 21,3 Miles,17:53.0,De La Salle Nike Invitational,XC,2019 Season,10th Grade
-2019,Oct 19,3 Miles,17:18.6,36th P.Wilder- Mariner XC Invitational,XC,2019 Season,10th Grade
-2019,Nov 9,3 Miles,17:28.8,EBAL Championship,XC,2019 Season,10th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,800 Meters,2:12.3h,Track,12th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,800 Meters,2:08.66,Track,12th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,800 Meters,DNS,Track,12th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:11.26,Track,12th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,1600 Meters,4:48.99,Track,12th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,1600 Meters,5:04.11,Track,12th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,1600 Meters,4:48.24,Track,12th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,10:29.15,Track,12th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,800 Meters,2:14.62,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,800 Meters,2:10.85,Track,11th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,800 Meters,2:15.90,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:18.70,Track,11th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,800 Meters,2:08.56,Track,11th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,4:55.21,Track,11th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,1600 Meters,4:57.19,Track,11th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,4:53.29,Track,11th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,1600 Meters,4:53.99,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,3200 Meters,12:17.25,Track,11th Grade
+Granada Sprint &amp; Distance Festival,2021 Outdoor Season,2021,May 15,3200 Meters,10:50.69,Track,11th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,3 Miles,16:42.2,XC,12th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,3 Miles,17:07.0,XC,12th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,16:18.1,XC,12th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,16:13.3,XC,12th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,16:13.4,XC,12th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,16:51.7,XC,12th Grade
+CIF North Coast Section Championship,2021 Season,2021,Nov 20,3 Miles,16:18.5,XC,12th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,18:13.1,XC,11th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,3 Miles,17:09.3,XC,11th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,17:25.7,XC,11th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,17:11.2,XC,11th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,3 Miles,17:53.0,XC,10th Grade
+36th P.Wilder- Mariner XC Invitational,2019 Season,2019,Oct 19,3 Miles,17:18.6,XC,10th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,17:28.8,XC,10th Grade
 
 Justin Snow,Athlete.aspx?AID=15794051,11th Grade,12:46.7,16:16.6,2:07,4:40,4:47,10:58,5:06,4:40
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2021,Apr 17,800 Meters,2:13.64,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,10th Grade
-2021,Apr 28,800 Meters,2:16.66,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,10th Grade
-2021,May 13,800 Meters,2:07.45,EBAL: Livermore - California,Track,2021 Outdoor Season,10th Grade
-2021,May 15,800 Meters,2:09.60,Granada Sprint &amp; Distance Festival,Track,2021 Outdoor Season,10th Grade
-2021,May 29,800 Meters,DNS,Tri-Valley Track Championships,Track,2021 Outdoor Season,10th Grade
-2021,Apr 22,1600 Meters,4:55.46,EBAL: Foothill - California,Track,2021 Outdoor Season,10th Grade
-2021,Apr 24,1600 Meters,4:52.31,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,10th Grade
-2021,Apr 28,1600 Meters,4:54.30,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,10th Grade
-2021,May 8,1600 Meters,4:52.80,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,10th Grade
-2021,May 22,1600 Meters,4:47.94,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,10th Grade
-2021,Apr 17,3200 Meters,10:58.06,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,10th Grade
-2020,Mar 5,800 Meters,2:16.20,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,9th Grade
-2020,Mar 7,800 Meters,DNS,Dan Gabor Invitational,Track,2020 Outdoor Season,9th Grade
-2020,Mar 7,1600 Meters,DNS,Dan Gabor Invitational,Track,2020 Outdoor Season,9th Grade
-2021,Sep 18,3 Miles,17:24.1,De La Salle Nike Invitational,XC,2021 Season,11th Grade
-2021,Oct 16,3 Miles,16:41.8,38th Mariner-XC-Invitational,XC,2021 Season,11th Grade
-2021,Oct 16,3 Miles,16:41.8,38th P. Wilder Mariner XC Invitational,XC,2021 Season,11th Grade
-2021,Nov 6,3 Miles,16:59.3,EBAL Championship,XC,2021 Season,11th Grade
-2020,Feb 13,3 Miles,17:30.0,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,10th Grade
-2020,Feb 27,3 Miles,16:30.1,"Cal, DLS/CHS dual meet",XC,2020 Season,10th Grade
-2020,Mar 6,3 Miles,16:37.8,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,10th Grade
-2020,Mar 20,3 Miles,16:50.4,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,10th Grade
-2019,Sep 3,2 Miles,12:46.7,Monte Vista Invitational,XC,2019 Season,9th Grade
-2019,Sep 21,3 Miles,17:28.8,De La Salle Nike Invitational,XC,2019 Season,9th Grade
-2019,Oct 19,3 Miles,16:39.9,36th P.Wilder- Mariner XC Invitational,XC,2019 Season,9th Grade
-2019,Nov 9,3 Miles,16:16.6,EBAL Championship,XC,2019 Season,9th Grade
-2019,Nov 23,3 Miles,16:34.6,CIF North Coast Section Championship,XC,2019 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,800 Meters,2:13.64,Track,10th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:16.66,Track,10th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,800 Meters,2:07.45,Track,10th Grade
+Granada Sprint &amp; Distance Festival,2021 Outdoor Season,2021,May 15,800 Meters,2:09.60,Track,10th Grade
+Tri-Valley Track Championships,2021 Outdoor Season,2021,May 29,800 Meters,DNS,Track,10th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,1600 Meters,4:55.46,Track,10th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,1600 Meters,4:52.31,Track,10th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,4:54.30,Track,10th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,4:52.80,Track,10th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,1600 Meters,4:47.94,Track,10th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,3200 Meters,10:58.06,Track,10th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,800 Meters,2:16.20,Track,9th Grade
+Dan Gabor Invitational,2020 Outdoor Season,2020,Mar 7,800 Meters,DNS,Track,9th Grade
+Dan Gabor Invitational,2020 Outdoor Season,2020,Mar 7,1600 Meters,DNS,Track,9th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,3 Miles,17:24.1,XC,11th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,16:41.8,XC,11th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,16:41.8,XC,11th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,16:59.3,XC,11th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,17:30.0,XC,10th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,3 Miles,16:30.1,XC,10th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,16:37.8,XC,10th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,16:50.4,XC,10th Grade
+Monte Vista Invitational,2019 Season,2019,Sep 3,2 Miles,12:46.7,XC,9th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,3 Miles,17:28.8,XC,9th Grade
+36th P.Wilder- Mariner XC Invitational,2019 Season,2019,Oct 19,3 Miles,16:39.9,XC,9th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,16:16.6,XC,9th Grade
+CIF North Coast Section Championship,2019 Season,2019,Nov 23,3 Miles,16:34.6,XC,9th Grade
 
 Dylan Draper,Athlete.aspx?AID=14014166,12th Grade,13:25.1,16:50.3,2:09,4:45,4:54,10:47,5:01,4:45
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 3,800 Meters,2:15.7h,Cal High @ Saint Francis,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,800 Meters,2:14.36,Dan Gabor Invitational,Track,2022 Outdoor Season,12th Grade
-2022,Mar 23,800 Meters,2:09.90,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,1600 Meters,4:59.10,Dan Gabor Invitational,Track,2022 Outdoor Season,12th Grade
-2022,Feb 23,3200 Meters,11:12.65,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,12th Grade
-2022,Mar 10,3200 Meters,11:05.95,EBAL: California - Foothill,Track,2022 Outdoor Season,12th Grade
-2022,Mar 19,3200 Meters,10:47.61,Dublin Distance Fiesta,Track,2022 Outdoor Season,12th Grade
-2021,Apr 17,800 Meters,2:18.59,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,Apr 22,800 Meters,2:19.68,EBAL: Foothill - California,Track,2021 Outdoor Season,11th Grade
-2021,May 13,800 Meters,2:10.03,EBAL: Livermore - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 17,1600 Meters,5:07.40,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,Apr 22,1600 Meters,5:07.61,EBAL: Foothill - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 24,1600 Meters,5:04.22,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,1600 Meters,5:00.41,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 8,1600 Meters,4:55.66,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,11th Grade
-2021,May 15,1600 Meters,4:54.08,Granada Sprint &amp; Distance Festival,Track,2021 Outdoor Season,11th Grade
-2021,May 22,1600 Meters,4:54.13,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,3200 Meters,12:06.86,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2020,Mar 5,800 Meters,2:16.07,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,10th Grade
-2020,Mar 7,800 Meters,2:14.69,Dan Gabor Invitational,Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,800 Meters,2:19.14,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2020,Feb 27,1600 Meters,4:57.21,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,1600 Meters,5:00.46,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2020,Feb 27,3200 Meters,11:06.03,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 5,3200 Meters,11:51.20,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,10th Grade
-2019,Feb 28,800 Meters,2:36.05,"EBAL Dublin, Granada, Livermore, California",Track,2019 Outdoor Season,9th Grade
-2019,Mar 2,800 Meters,2:27.70,Dan Gabor Invitational,Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,800 Meters,2:30.11,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,800 Meters,2:23.56,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,800 Meters,2:27.51,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 13,800 Meters,2:17.76,Granada Distance &amp; Sprint Festival,Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,800 Meters,2:18.63,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2019,Apr 20,800 Meters,2:19.70,Northern California Frosh/Soph Championships,Track,2019 Outdoor Season,9th Grade
-2019,Feb 21,1600 Meters,5:40.21,"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",Track,2019 Outdoor Season,9th Grade
-2019,Feb 28,1600 Meters,5:29.97,"EBAL Dublin, Granada, Livermore, California",Track,2019 Outdoor Season,9th Grade
-2019,Mar 7,1600 Meters,5:21.66,EBAL Foothill vs California,Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,1600 Meters,5:21.16,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,1600 Meters,5:15.62,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Feb 21,3200 Meters,12:24.49,"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,3200 Meters,11:21.61,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,3200 Meters,11:47.44,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2021,Sep 4,3 Miles,17:54.4,Cal High vs. DLS/CHS and DV,XC,2021 Season,12th Grade
-2021,Sep 18,3 Miles,19:00.0,De La Salle Nike Invitational,XC,2021 Season,12th Grade
-2021,Oct 2,3 Miles,16:50.3,"Amador Valley, Livermore, and Cal",XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,17:08.3,38th Mariner-XC-Invitational,XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,17:08.4,38th P. Wilder Mariner XC Invitational,XC,2021 Season,12th Grade
-2021,Nov 6,3 Miles,18:18.2,EBAL Championship,XC,2021 Season,12th Grade
-2021,Nov 20,3 Miles,18:21.2,CIF North Coast Section Championship,XC,2021 Season,12th Grade
-2020,Feb 13,3 Miles,18:49.7,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,11th Grade
-2020,Feb 27,3 Miles,17:49.6,"Cal, DLS/CHS dual meet",XC,2020 Season,11th Grade
-2020,Mar 6,3 Miles,17:42.0,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,11th Grade
-2020,Mar 20,3 Miles,17:34.5,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,11th Grade
-2019,Sep 3,2 Miles,13:25.1,Monte Vista Invitational,XC,2019 Season,10th Grade
-2019,Sep 21,3 Miles,18:57.4,De La Salle Nike Invitational,XC,2019 Season,10th Grade
-2019,Oct 19,3 Miles,18:13.5,36th P.Wilder- Mariner XC Invitational,XC,2019 Season,10th Grade
-2019,Nov 9,3 Miles,17:22.9,EBAL Championship,XC,2019 Season,10th Grade
-2019,Nov 23,3 Miles,17:12.6,CIF North Coast Section Championship,XC,2019 Season,10th Grade
-2018,Sep 4,2 Miles,14:58.9,Monte Vista Invitational,XC,2018 Season,9th Grade
-2018,Sep 15,2 Miles,13:50.3,DLS Nike Invitational,XC,2018 Season,9th Grade
-2018,Oct 20,3 Miles,19:52.3,35th P-Wilder Mariner Invite,XC,2018 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,800 Meters,2:15.7h,Track,12th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,800 Meters,2:14.36,Track,12th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:09.90,Track,12th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,1600 Meters,4:59.10,Track,12th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,11:12.65,Track,12th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,3200 Meters,11:05.95,Track,12th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,3200 Meters,10:47.61,Track,12th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,800 Meters,2:18.59,Track,11th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,800 Meters,2:19.68,Track,11th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,800 Meters,2:10.03,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,1600 Meters,5:07.40,Track,11th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,1600 Meters,5:07.61,Track,11th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,1600 Meters,5:04.22,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,5:00.41,Track,11th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,4:55.66,Track,11th Grade
+Granada Sprint &amp; Distance Festival,2021 Outdoor Season,2021,May 15,1600 Meters,4:54.08,Track,11th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,1600 Meters,4:54.13,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,3200 Meters,12:06.86,Track,11th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,800 Meters,2:16.07,Track,10th Grade
+Dan Gabor Invitational,2020 Outdoor Season,2020,Mar 7,800 Meters,2:14.69,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,800 Meters,2:19.14,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,1600 Meters,4:57.21,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,1600 Meters,5:00.46,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,3200 Meters,11:06.03,Track,10th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,3200 Meters,11:51.20,Track,10th Grade
+"EBAL Dublin, Granada, Livermore, California",2019 Outdoor Season,2019,Feb 28,800 Meters,2:36.05,Track,9th Grade
+Dan Gabor Invitational,2019 Outdoor Season,2019,Mar 2,800 Meters,2:27.70,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,800 Meters,2:30.11,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,800 Meters,2:23.56,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,800 Meters,2:27.51,Track,9th Grade
+Granada Distance &amp; Sprint Festival,2019 Outdoor Season,2019,Apr 13,800 Meters,2:17.76,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,800 Meters,2:18.63,Track,9th Grade
+Northern California Frosh/Soph Championships,2019 Outdoor Season,2019,Apr 20,800 Meters,2:19.70,Track,9th Grade
+"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",2019 Outdoor Season,2019,Feb 21,1600 Meters,5:40.21,Track,9th Grade
+"EBAL Dublin, Granada, Livermore, California",2019 Outdoor Season,2019,Feb 28,1600 Meters,5:29.97,Track,9th Grade
+EBAL Foothill vs California,2019 Outdoor Season,2019,Mar 7,1600 Meters,5:21.66,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,1600 Meters,5:21.16,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,1600 Meters,5:15.62,Track,9th Grade
+"Bishop O'Dowd, Drake, West, Kimball, California Scrimmage",2019 Outdoor Season,2019,Feb 21,3200 Meters,12:24.49,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,3200 Meters,11:21.61,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,3200 Meters,11:47.44,Track,9th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,3 Miles,17:54.4,XC,12th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,3 Miles,19:00.0,XC,12th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,16:50.3,XC,12th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,17:08.3,XC,12th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,17:08.4,XC,12th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,18:18.2,XC,12th Grade
+CIF North Coast Section Championship,2021 Season,2021,Nov 20,3 Miles,18:21.2,XC,12th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,18:49.7,XC,11th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,3 Miles,17:49.6,XC,11th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,17:42.0,XC,11th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,17:34.5,XC,11th Grade
+Monte Vista Invitational,2019 Season,2019,Sep 3,2 Miles,13:25.1,XC,10th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,3 Miles,18:57.4,XC,10th Grade
+36th P.Wilder- Mariner XC Invitational,2019 Season,2019,Oct 19,3 Miles,18:13.5,XC,10th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,17:22.9,XC,10th Grade
+CIF North Coast Section Championship,2019 Season,2019,Nov 23,3 Miles,17:12.6,XC,10th Grade
+Monte Vista Invitational,2018 Season,2018,Sep 4,2 Miles,14:58.9,XC,9th Grade
+DLS Nike Invitational,2018 Season,2018,Sep 15,2 Miles,13:50.3,XC,9th Grade
+35th P-Wilder Mariner Invite,2018 Season,2018,Oct 20,3 Miles,19:52.3,XC,9th Grade
 
 Marwan Balach,Athlete.aspx?AID=14014144,12th Grade,12:17.4,17:11.4,2:29,5:27,5:12,11:44,5:27,5:12
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 23,800 Meters,2:36.77,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,12th Grade
-2022,Mar 3,1600 Meters,5:32.51,Cal High @ Saint Francis,Track,2022 Outdoor Season,12th Grade
-2022,Mar 5,1600 Meters,DNS,Clayton Valley Ugly Eagles Relays,Track,2022 Outdoor Season,12th Grade
-2022,Mar 23,1600 Meters,5:54.37,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,12th Grade
-2022,Feb 23,3200 Meters,12:14.41,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,12th Grade
-2022,Mar 10,3200 Meters,11:44.44,EBAL: California - Foothill,Track,2022 Outdoor Season,12th Grade
-2021,Apr 3,800 Meters,2:29.06,Dan Gabor Invitational ,Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,800 Meters,2:38.65,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,Apr 3,1600 Meters,5:29.21,Dan Gabor Invitational ,Track,2021 Outdoor Season,11th Grade
-2021,Apr 22,1600 Meters,5:25.32,EBAL: Foothill - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,1600 Meters,5:21.07,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 13,1600 Meters,5:12.69,EBAL: Livermore - California,Track,2021 Outdoor Season,11th Grade
-2020,Feb 27,800 Meters,2:32.70,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 5,800 Meters,2:33.39,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,800 Meters,2:40.73,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2020,Feb 27,1600 Meters,5:36.77,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 5,1600 Meters,5:29.64,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,1600 Meters,5:23.98,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2019,Mar 21,800 Meters,2:38.15,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,800 Meters,2:30.92,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,800 Meters,2:43.45,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2019,Mar 7,1600 Meters,5:46.24,EBAL Foothill vs California,Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,1600 Meters,5:39.46,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,1600 Meters,5:39.61,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,1600 Meters,7:09.41,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2021,Sep 18,2 Miles,13:08.6,De La Salle Nike Invitational,XC,2021 Season,12th Grade
-2021,Oct 2,3 Miles,17:11.4,"Amador Valley, Livermore, and Cal",XC,2021 Season,12th Grade
-2021,Oct 9,3 Miles,22:36.1,Castro Valley/Peter Brewer Cross Country Invitational,XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,18:51.0,38th P. Wilder Mariner XC Invitational,XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,18:50.9,38th Mariner-XC-Invitational,XC,2021 Season,12th Grade
-2021,Nov 6,3 Miles,18:54.6,EBAL Championship,XC,2021 Season,12th Grade
-2020,Feb 27,2 Miles,12:17.4,"Cal, DLS/CHS dual meet",XC,2020 Season,11th Grade
-2020,Feb 13,3 Miles,,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,11th Grade
-2020,Mar 6,3 Miles,19:14.5,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,11th Grade
-2020,Mar 20,3 Miles,17:43.2,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,11th Grade
-2020,Mar 20,3 Miles,,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,11th Grade
-2019,Sep 3,2 Miles,14:34.7,Monte Vista Invitational,XC,2019 Season,10th Grade
-2019,Sep 21,3 Miles,20:14.8,De La Salle Nike Invitational,XC,2019 Season,10th Grade
-2019,Nov 9,3 Miles,18:16.3,EBAL Championship,XC,2019 Season,10th Grade
-2018,Sep 15,2 Miles,13:30.5,DLS Nike Invitational,XC,2018 Season,9th Grade
-2018,Oct 20,3 Miles,18:36.4,35th P-Wilder Mariner Invite,XC,2018 Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:36.77,Track,12th Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,1600 Meters,5:32.51,Track,12th Grade
+Clayton Valley Ugly Eagles Relays,2022 Outdoor Season,2022,Mar 5,1600 Meters,DNS,Track,12th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,1600 Meters,5:54.37,Track,12th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,12:14.41,Track,12th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,3200 Meters,11:44.44,Track,12th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,800 Meters,2:29.06,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:38.65,Track,11th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,5:29.21,Track,11th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,1600 Meters,5:25.32,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,5:21.07,Track,11th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,1600 Meters,5:12.69,Track,11th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,800 Meters,2:32.70,Track,10th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,800 Meters,2:33.39,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,800 Meters,2:40.73,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,1600 Meters,5:36.77,Track,10th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,1600 Meters,5:29.64,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,1600 Meters,5:23.98,Track,10th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,800 Meters,2:38.15,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,800 Meters,2:30.92,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,800 Meters,2:43.45,Track,9th Grade
+EBAL Foothill vs California,2019 Outdoor Season,2019,Mar 7,1600 Meters,5:46.24,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,1600 Meters,5:39.46,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,1600 Meters,5:39.61,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,1600 Meters,7:09.41,Track,9th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,2 Miles,13:08.6,XC,12th Grade
+"Amador Valley, Livermore, and Cal",2021 Season,2021,Oct 2,3 Miles,17:11.4,XC,12th Grade
+Castro Valley/Peter Brewer Cross Country Invitational,2021 Season,2021,Oct 9,3 Miles,22:36.1,XC,12th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,18:51.0,XC,12th Grade
+38th Mariner-XC-Invitational,2021 Season,2021,Oct 16,3 Miles,18:50.9,XC,12th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,18:54.6,XC,12th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,2 Miles,12:17.4,XC,11th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,,XC,11th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,19:14.5,XC,11th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,17:43.2,XC,11th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,,XC,11th Grade
+Monte Vista Invitational,2019 Season,2019,Sep 3,2 Miles,14:34.7,XC,10th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,3 Miles,20:14.8,XC,10th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,18:16.3,XC,10th Grade
+DLS Nike Invitational,2018 Season,2018,Sep 15,2 Miles,13:30.5,XC,9th Grade
+35th P-Wilder Mariner Invite,2018 Season,2018,Oct 20,3 Miles,18:36.4,XC,9th Grade
 
 Aryan Sarda,Athlete.aspx?AID=14646068,12th Grade,13:15.4,16:34.7,2:07,4:41,4:41,10:46,5:00,4:41
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2021,Apr 3,800 Meters,2:09.91,Dan Gabor Invitational ,Track,2021 Outdoor Season,11th Grade
-2021,Apr 17,800 Meters,2:07.97,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2021,Apr 22,800 Meters,2:11.13,EBAL: Foothill - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,800 Meters,2:10.63,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 13,800 Meters,2:09.14,EBAL: Livermore - California,Track,2021 Outdoor Season,11th Grade
-2021,Apr 3,1600 Meters,4:41.63,Dan Gabor Invitational ,Track,2021 Outdoor Season,11th Grade
-2021,Apr 24,1600 Meters,4:42.82,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,11th Grade
-2021,Apr 28,1600 Meters,4:54.71,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,11th Grade
-2021,May 8,1600 Meters,4:45.85,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,11th Grade
-2021,May 15,1600 Meters,4:55.30,Granada Sprint &amp; Distance Festival,Track,2021 Outdoor Season,11th Grade
-2021,May 22,1600 Meters,DNS,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,11th Grade
-2021,Apr 17,3200 Meters,12:00.74,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,11th Grade
-2020,Feb 27,800 Meters,2:12.11,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 5,800 Meters,2:11.80,St. Francis vs California Scrimmage,Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,800 Meters,2:35.91,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2020,Feb 27,1600 Meters,4:55.62,"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",Track,2020 Outdoor Season,10th Grade
-2020,Mar 7,1600 Meters,4:45.42,Dan Gabor Invitational,Track,2020 Outdoor Season,10th Grade
-2020,Mar 12,3200 Meters,10:46.77,EBAL California vs Foothill,Track,2020 Outdoor Season,10th Grade
-2019,Mar 13,800 Meters,2:32.08,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,800 Meters,2:28.18,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,800 Meters,2:28.01,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Mar 7,1600 Meters,5:38.84,EBAL Foothill vs California,Track,2019 Outdoor Season,9th Grade
-2019,Mar 13,1600 Meters,5:34.66,Cal Hi &amp; Monte Vista @ Dougherty Valley,Track,2019 Outdoor Season,9th Grade
-2019,Mar 21,1600 Meters,5:34.32,"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",Track,2019 Outdoor Season,9th Grade
-2019,Apr 11,1600 Meters,5:28.46,"EBAL Monte Vista, San Ramon Valley, California",Track,2019 Outdoor Season,9th Grade
-2019,Apr 17,1600 Meters,6:59.12,Grizzly Cup,Track,2019 Outdoor Season,9th Grade
-2019,Apr 13,3200 Meters,11:57.08,Granada Distance &amp; Sprint Festival,Track,2019 Outdoor Season,9th Grade
-2021,Sep 4,3 Miles,17:18.1,Cal High vs. DLS/CHS and DV,XC,2021 Season,12th Grade
-2021,Sep 18,3 Miles,19:20.3,De La Salle Nike Invitational,XC,2021 Season,12th Grade
-2021,Oct 16,3 Miles,,38th P. Wilder Mariner XC Invitational,XC,2021 Season,12th Grade
-2020,Feb 13,3 Miles,17:21.4,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,11th Grade
-2020,Feb 27,3 Miles,16:38.2,"Cal, DLS/CHS dual meet",XC,2020 Season,11th Grade
-2020,Mar 6,3 Miles,16:47.8,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,11th Grade
-2020,Mar 20,3 Miles,16:34.7,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,11th Grade
-2019,Sep 3,2 Miles,13:15.4,Monte Vista Invitational,XC,2019 Season,10th Grade
-2019,Sep 21,3 Miles,17:55.6,De La Salle Nike Invitational,XC,2019 Season,10th Grade
-2019,Oct 19,3 Miles,17:35.1,36th P.Wilder- Mariner XC Invitational,XC,2019 Season,10th Grade
-2019,Nov 9,3 Miles,17:15.7,EBAL Championship,XC,2019 Season,10th Grade
-2019,Nov 23,3 Miles,17:26.0,CIF North Coast Section Championship,XC,2019 Season,10th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,800 Meters,2:09.91,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,800 Meters,2:07.97,Track,11th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,800 Meters,2:11.13,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,800 Meters,2:10.63,Track,11th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,800 Meters,2:09.14,Track,11th Grade
+Dan Gabor Invitational ,2021 Outdoor Season,2021,Apr 3,1600 Meters,4:41.63,Track,11th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,1600 Meters,4:42.82,Track,11th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,4:54.71,Track,11th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,4:45.85,Track,11th Grade
+Granada Sprint &amp; Distance Festival,2021 Outdoor Season,2021,May 15,1600 Meters,4:55.30,Track,11th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,1600 Meters,DNS,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,3200 Meters,12:00.74,Track,11th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,800 Meters,2:12.11,Track,10th Grade
+St. Francis vs California Scrimmage,2020 Outdoor Season,2020,Mar 5,800 Meters,2:11.80,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,800 Meters,2:35.91,Track,10th Grade
+"Bishop O'Dowd, Drake, West, Caifornia Scrimmage",2020 Outdoor Season,2020,Feb 27,1600 Meters,4:55.62,Track,10th Grade
+Dan Gabor Invitational,2020 Outdoor Season,2020,Mar 7,1600 Meters,4:45.42,Track,10th Grade
+EBAL California vs Foothill,2020 Outdoor Season,2020,Mar 12,3200 Meters,10:46.77,Track,10th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,800 Meters,2:32.08,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,800 Meters,2:28.18,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,800 Meters,2:28.01,Track,9th Grade
+EBAL Foothill vs California,2019 Outdoor Season,2019,Mar 7,1600 Meters,5:38.84,Track,9th Grade
+Cal Hi &amp; Monte Vista @ Dougherty Valley,2019 Outdoor Season,2019,Mar 13,1600 Meters,5:34.66,Track,9th Grade
+"Cal Hi, De La Salle &amp; Carondelet @ Monte Vista",2019 Outdoor Season,2019,Mar 21,1600 Meters,5:34.32,Track,9th Grade
+"EBAL Monte Vista, San Ramon Valley, California",2019 Outdoor Season,2019,Apr 11,1600 Meters,5:28.46,Track,9th Grade
+Grizzly Cup,2019 Outdoor Season,2019,Apr 17,1600 Meters,6:59.12,Track,9th Grade
+Granada Distance &amp; Sprint Festival,2019 Outdoor Season,2019,Apr 13,3200 Meters,11:57.08,Track,9th Grade
+Cal High vs. DLS/CHS and DV,2021 Season,2021,Sep 4,3 Miles,17:18.1,XC,12th Grade
+De La Salle Nike Invitational,2021 Season,2021,Sep 18,3 Miles,19:20.3,XC,12th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,,XC,12th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,17:21.4,XC,11th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,3 Miles,16:38.2,XC,11th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,16:47.8,XC,11th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,16:34.7,XC,11th Grade
+Monte Vista Invitational,2019 Season,2019,Sep 3,2 Miles,13:15.4,XC,10th Grade
+De La Salle Nike Invitational,2019 Season,2019,Sep 21,3 Miles,17:55.6,XC,10th Grade
+36th P.Wilder- Mariner XC Invitational,2019 Season,2019,Oct 19,3 Miles,17:35.1,XC,10th Grade
+EBAL Championship,2019 Season,2019,Nov 9,3 Miles,17:15.7,XC,10th Grade
+CIF North Coast Section Championship,2019 Season,2019,Nov 23,3 Miles,17:26.0,XC,10th Grade
 
 Bryce Wijesekara,Athlete.aspx?AID=17578690,11th Grade,11:37.3,17:02.7,2:09,4:44,4:36,10:28,4:52,4:36
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 3,800 Meters,2:13.8h,Cal High @ Saint Francis,Track,2022 Outdoor Season,11th Grade
-2022,Mar 5,800 Meters,2:12.02,Dan Gabor Invitational,Track,2022 Outdoor Season,11th Grade
-2022,Mar 19,800 Meters,2:09.22,Dublin Distance Fiesta,Track,2022 Outdoor Season,11th Grade
-2022,Mar 5,1600 Meters,4:43.59,Dan Gabor Invitational,Track,2022 Outdoor Season,11th Grade
-2022,Mar 19,1600 Meters,4:36.67,Dublin Distance Fiesta,Track,2022 Outdoor Season,11th Grade
-2022,Mar 23,1600 Meters,4:57.90,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,11th Grade
-2022,Feb 23,3200 Meters,10:28.26,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,11th Grade
-2022,Mar 23,3200 Meters,12:52.62,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,11th Grade
-2021,Apr 17,800 Meters,2:14.20,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,10th Grade
-2021,Apr 17,1600 Meters,4:57.58,Brad Morisoli/Sharon White Invite,Track,2021 Outdoor Season,10th Grade
-2021,Apr 22,1600 Meters,5:40.66,EBAL: Foothill - California,Track,2021 Outdoor Season,10th Grade
-2021,Apr 28,1600 Meters,4:51.37,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,10th Grade
-2021,May 1,1600 Meters,4:51.97,51st Annual (mini) Bob Warren - Charlie Eaton Relays,Track,2021 Outdoor Season,10th Grade
-2021,May 8,1600 Meters,DNS,San Ramon Valley vs Cal High,Track,2021 Outdoor Season,10th Grade
-2021,May 22,1600 Meters,DNS,Dublin Social Distance Fiesta #3,Track,2021 Outdoor Season,10th Grade
-2021,Apr 24,3200 Meters,10:37.42,Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),Track,2021 Outdoor Season,10th Grade
-2021,Apr 28,3200 Meters,12:03.41,Dougherty Valley HS vs California HS,Track,2021 Outdoor Season,10th Grade
-2021,May 13,3200 Meters,11:16.87,EBAL: Livermore - California,Track,2021 Outdoor Season,10th Grade
-2021,May 15,3200 Meters,10:34.34,Granada Sprint &amp; Distance Festival,Track,2021 Outdoor Season,10th Grade
-2021,Oct 16,3 Miles,,38th P. Wilder Mariner XC Invitational,XC,2021 Season,11th Grade
-2021,Nov 6,3 Miles,,EBAL Championship,XC,2021 Season,11th Grade
-2020,Feb 27,2 Miles,11:37.3,"Cal, DLS/CHS dual meet",XC,2020 Season,10th Grade
-2020,Feb 13,3 Miles,17:55.9,"California, Dublin, Granada &amp; Livermore Meet",XC,2020 Season,10th Grade
-2020,Mar 6,3 Miles,17:13.6,"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",XC,2020 Season,10th Grade
-2020,Mar 20,3 Miles,17:02.7,Tri-Valley Cross Country Meet of Champions,XC,2020 Season,10th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,800 Meters,2:13.8h,Track,11th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,800 Meters,2:12.02,Track,11th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,800 Meters,2:09.22,Track,11th Grade
+Dan Gabor Invitational,2022 Outdoor Season,2022,Mar 5,1600 Meters,4:43.59,Track,11th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,1600 Meters,4:36.67,Track,11th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,1600 Meters,4:57.90,Track,11th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,3200 Meters,10:28.26,Track,11th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,3200 Meters,12:52.62,Track,11th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,800 Meters,2:14.20,Track,10th Grade
+Brad Morisoli/Sharon White Invite,2021 Outdoor Season,2021,Apr 17,1600 Meters,4:57.58,Track,10th Grade
+EBAL: Foothill - California,2021 Outdoor Season,2021,Apr 22,1600 Meters,5:40.66,Track,10th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,1600 Meters,4:51.37,Track,10th Grade
+51st Annual (mini) Bob Warren - Charlie Eaton Relays,2021 Outdoor Season,2021,May 1,1600 Meters,4:51.97,Track,10th Grade
+San Ramon Valley vs Cal High,2021 Outdoor Season,2021,May 8,1600 Meters,DNS,Track,10th Grade
+Dublin Social Distance Fiesta #3,2021 Outdoor Season,2021,May 22,1600 Meters,DNS,Track,10th Grade
+Dublin Social Distance Fiesta (High Schools w/in 120 Miles of Dublin HS),2021 Outdoor Season,2021,Apr 24,3200 Meters,10:37.42,Track,10th Grade
+Dougherty Valley HS vs California HS,2021 Outdoor Season,2021,Apr 28,3200 Meters,12:03.41,Track,10th Grade
+EBAL: Livermore - California,2021 Outdoor Season,2021,May 13,3200 Meters,11:16.87,Track,10th Grade
+Granada Sprint &amp; Distance Festival,2021 Outdoor Season,2021,May 15,3200 Meters,10:34.34,Track,10th Grade
+38th P. Wilder Mariner XC Invitational,2021 Season,2021,Oct 16,3 Miles,,XC,11th Grade
+EBAL Championship,2021 Season,2021,Nov 6,3 Miles,,XC,11th Grade
+"Cal, DLS/CHS dual meet",2020 Season,2020,Feb 27,2 Miles,11:37.3,XC,10th Grade
+"California, Dublin, Granada &amp; Livermore Meet",2020 Season,2020,Feb 13,3 Miles,17:55.9,XC,10th Grade
+"Dublin, Liberty, Amador, Cal, DVHS &amp; Monte Vista",2020 Season,2020,Mar 6,3 Miles,17:13.6,XC,10th Grade
+Tri-Valley Cross Country Meet of Champions,2020 Season,2020,Mar 20,3 Miles,17:02.7,XC,10th Grade
 
 Aidan Dube,Athlete.aspx?AID=19544645,9th Grade,,,2:15,4:58,4:57,,,4:57
 
-Year,Date,Race Distance,Time,Name of meet,XC/Track,Season,Grade
-2022,Mar 3,800 Meters,2:20.7h,Cal High @ Saint Francis,Track,2022 Outdoor Season,9th Grade
-2022,Mar 10,800 Meters,2:16.03,EBAL: California - Foothill,Track,2022 Outdoor Season,9th Grade
-2022,Mar 23,800 Meters,2:15.66,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,9th Grade
-2022,Feb 23,1600 Meters,5:16.25,Bishop O'Dowd - Merrill West - California Scrimmage,Track,2022 Outdoor Season,9th Grade
-2022,Mar 5,1600 Meters,5:05.08,Clayton Valley Ugly Eagles Relays,Track,2022 Outdoor Season,9th Grade
-2022,Mar 19,1600 Meters,4:57.00,Dublin Distance Fiesta,Track,2022 Outdoor Season,9th Grade
-2022,Mar 23,1600 Meters,5:25.47,EBAL: California - Livermore - San Ramon Valley,Track,2022 Outdoor Season,9th Grade
+Name of meet,Season,Year,Date,Race Distance,Time,XC/Track,Grade
+Cal High @ Saint Francis,2022 Outdoor Season,2022,Mar 3,800 Meters,2:20.7h,Track,9th Grade
+EBAL: California - Foothill,2022 Outdoor Season,2022,Mar 10,800 Meters,2:16.03,Track,9th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,800 Meters,2:15.66,Track,9th Grade
+Bishop O'Dowd - Merrill West - California Scrimmage,2022 Outdoor Season,2022,Feb 23,1600 Meters,5:16.25,Track,9th Grade
+Clayton Valley Ugly Eagles Relays,2022 Outdoor Season,2022,Mar 5,1600 Meters,5:05.08,Track,9th Grade
+Dublin Distance Fiesta,2022 Outdoor Season,2022,Mar 19,1600 Meters,4:57.00,Track,9th Grade
+EBAL: California - Livermore - San Ramon Valley,2022 Outdoor Season,2022,Mar 23,1600 Meters,5:25.47,Track,9th Grade
 
