@@ -1,8 +1,9 @@
 import csv
 from bs4 import BeautifulSoup
 import requests
+import timeconversion
 
-url = "https://www.athletic.net/CrossCountry/Athlete.aspx?AID=14014172"
+url = "https://www.athletic.net/CrossCountry/Athlete.aspx?AID=11237593"
 
 result = requests.get(url)
 doc = BeautifulSoup(result.text, "html.parser")

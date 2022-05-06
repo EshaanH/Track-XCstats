@@ -12,4 +12,3 @@ def convertTime800(time, conversionFactor = 2.2):
 
 def reformat(time):
     return time.split(".")[0]
-
