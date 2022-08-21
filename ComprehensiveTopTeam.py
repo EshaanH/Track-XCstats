@@ -15,7 +15,7 @@ def bestTime(eventy):
             currentValue = input
     return currentValue
     
-def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCtop3miles = 10, TFtop3200 = 7, TFtop1600 = 7, TFtop800 = 5):    
+def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCtop3miles = 10, TFtop3200 = 7, TFtop1600 = 7, TFtop800 = 5): #made this a function so it can be imported into other scripts and "schoolid" isn't forgotten    
     url = "https://www.athletic.net/CrossCountry/seasonbest?SchoolID=" + schoolid # XC Team Profile
 
     result = requests.get(url)
@@ -24,22 +24,22 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
     importantAtheleteList = []
 
     atheletenumber = 0
-    for distance in doc.find_all("div", {'class': "distance"}):
+    for distance in doc.find_all("div", {'class': "distance"}): #this loops through all the distance tables in the html file
         eventName = str(distance.find('h3', {"class" : "mt-2"}))
         split1 = eventName.split('>',1)[1]
-        split2 = split1.split('<',1)[0]
+        split2 = split1.split('<',1)[0] #this turns the html of the event name into a string
         if split2 == "2 Miles":
             
             timeTable = distance.find('table', {'class': "table table-responsive DataTable"})
             for line in timeTable.find_all('tr'):
                 
                 link = str(line.find('a'))
-                linksplit = link.split("\"",2)[1]
+                linksplit = link.split("\"",2)[1] #saves the athelete's link to bio, for future use
                 
                 importantAtheleteList.append(linksplit)
-                atheletenumber += 1
                 
-                if atheletenumber == XCtop2miles:
+                atheletenumber += 1
+                if atheletenumber == XCtop2miles: #stops the loop for running for every athelete and only pick the amount you choose when you call the function
                     break
 
         if split2 == "3 Miles":
@@ -50,11 +50,11 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
             for line in timeTable.find_all('tr'):
                 
                 link = str(line.find('a'))
-                linksplit = link.split("\"",2)[1]
+                linksplit = link.split("\"",2)[1] #saves the athelete's link to bio, for future use
                 importantAtheleteList.append(linksplit)
-                atheletenumber += 1
                 
-                if atheletenumber == XCtop3miles:
+                atheletenumber += 1
+                if atheletenumber == XCtop3miles: #stops the loop for running for every athelete and only pick the amount you choose when you call the function
                     break
 
     url = "https://www.athletic.net/TrackAndField/EventRecords.aspx?SchoolID=" + schoolid # TF Team Profile
@@ -83,7 +83,7 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
         if x not in templist:
             templist.append(x)
 
-    importantAtheleteList = templist
+    importantAtheleteList = templist #removes duplicates and does some additional filtering to track links
     
     templist = []
     for x in importantAtheleteList:
@@ -93,7 +93,7 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
     importantAtheleteList = templist
 
     file_name = fileName + ".csv"
-    file = open(file_name, "w", newline="")
+    file = open(file_name, "w", newline="") # creates the document in which the records are saved
     writer = csv.writer(file)
 
     for link in importantAtheleteList:
@@ -104,22 +104,22 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
         gradeList = []
 
         result = requests.get(XCurl)
-        doc = BeautifulSoup(result.text, "html.parser")
+        doc = BeautifulSoup(result.text, "html.parser") # starts parsing the SC url
 
         title = str(doc.title.string)
         title = title.replace('\n','').replace('\t','').replace('\r','')
-        athlete_name = title.split('-')[0]
+        athlete_name = title.split('-')[0] # gets the athelete name
         
         XCgrade  = doc.find('span', {'class' : 'float-right'})
         try:
-            gradeList.append(XCgrade.string)
+            gradeList.append(XCgrade.string) # if there is a grade, it takes it
         except:
             XCgrade = "ZZZ"
 
         XCtwomiletime = ""
         XCthreemiletime = ""
 
-        for event in doc.find_all('table', {"class" : "table table-sm histEvent"}):
+        for event in doc.find_all('table', {"class" : "table table-sm histEvent"}): # goes to the PR table and gets their latest PRs
             for event_name in event.find_all('h5', {"class" : "bold"}):
                 event_Name = (str(event_name.contents[0]))
                 if event_Name == "2 Miles":
@@ -132,12 +132,12 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
         
         TFgrade  = doc.find('span', {'class' : 'float-right'})
         try:
-            gradeList.append(TFgrade.string)
+            gradeList.append(TFgrade.string) # add the grade to the list
         except:
             XCgrade = "ZZZ"
 
         gradeList.sort()
-        actualgrade=gradeList[-1]
+        actualgrade=gradeList[-1] # sorts for the highest grade (ie. the last grade they ran XC or track)
 
         eighttime = ""
         sixtime = ""
@@ -160,7 +160,7 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
                     convertedthirty = timeconversion.convertTime3200(thirtytime)
                     thirtytime = timeconversion.reformat(thirtytime)
 
-        templist = [convertedeight, sixtime, convertedthirty]
+        templist = [convertedeight, sixtime, convertedthirty] #calculates their best estimated effort best event
         timesList = []
         for item in templist:
             if item != "":
@@ -168,17 +168,17 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
         timesList.sort()
 
         timesList.append("")
-        athleteStats = [athlete_name.strip(), link, actualgrade, XCtwomiletime, XCthreemiletime, eighttime, convertedeight, sixtime, thirtytime, convertedthirty, timesList[0]] 
+        athleteStats = [athlete_name.strip(), link, actualgrade, XCtwomiletime, XCthreemiletime, eighttime, convertedeight, sixtime, thirtytime, convertedthirty, timesList[0]] # writes the header line for the person
         writer.writerow(athleteStats)
         writer.writerow("")
-        writer.writerow(["Name of meet", "Season", "Year", "Date", "Race Distance", "Time", "XC/Track", "Grade"])
+        writer.writerow(["Name of meet", "Season", "Year", "Date", "Race Distance", "Time", "XC/Track", "Grade"]) # starts their results table
    
         skipcount=1
-        try:
+        try: # some people have weird links or don't a season, so to avoid null pointer exceptions, if this errors out, it just assumes that the person has not run track
             for seasonTables in  doc.find("div", {"class" : "col-md-7 pull-md-5 col-xl-8 pull-xl-4 col-print-7 athleteResults"}):
 
                 for seasontable in seasonTables.find_all("div"):
-                    if skipcount == 1:
+                    if skipcount == 1: # it only needs this data every other time, so it alternates pulling it and skipping it
                         seasongrade = seasontable.find("h5")
                         splitlist = str(seasongrade).split('>')
                         season1 = splitlist[1].split('<')[0]
@@ -193,17 +193,17 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
                     relevantTimeList = []
                     shouldnext = True
 
-                    for titles in seasontable.find_all("h5"):
+                    for titles in seasontable.find_all("h5"): # it goes through all the events run in the season table. If there is a relevant event, it saves that information.
                         if titles.string == "800 Meters":
                             relevantTimeList.append("800 Meters")
                         elif titles.string == "1600 Meters":
-                            relevantTimeList.append("1600 Meters")
+                            relevantTimeList.append("1600 Meters") # this could just be one if statement with a bunch of "or"s, but for future expandability (maybe you only care about 32) its just gonna stay like this
                         elif titles.string == "3200 Meters":
                             relevantTimeList.append("3200 Meters")
                         else:
                             relevantTimeList.append("Meh.")            
                         
-                    for item in relevantTimeList:
+                    for item in relevantTimeList: # if there isn't a relevant event, "shouldnext" stays true and skips this year, cuz its not important
                         if item == "800 Meters":
                             shouldnext = False
                         elif item == "1600 Meters":
@@ -215,15 +215,15 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
                         continue
                     
                     timelistindex = 0
-                    for item in relevantTimeList:
-                        if item == "800 Meters":
+                    for item in relevantTimeList: # loops through this list to know how much stuff it needs to pull
+                        if item == "800 Meters": #checks what event it is, mostly to filter out non-distance events again, because its not needed
                             eventlistindex =-1
                             for eventTimes in seasontable.find_all('table', {'class' : 'table table-sm table-responsive table-hover'}):
                                 eventlistindex +=1
-                                if eventlistindex != timelistindex:
+                                if eventlistindex != timelistindex: # avoids duplicates???
                                     continue
 
-                                for time in eventTimes.find_all("tr"):
+                                for time in eventTimes.find_all("tr"): # pulls the data out of the line
                                     splitList = str(time).split('>')
                                     realTime1 = splitList[15]
                                     realTime2 = realTime1.split('<')[0]
@@ -231,9 +231,9 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
                                     meet1 = meet.split('<')[0]
                                     date = splitList[-9]
                                     date1 = date.split('<')[0]
-                                    writer.writerow([meet1, season, year, date1, "800 Meters", realTime2, "Track", grade])
+                                    writer.writerow([meet1, season, year, date1, "800 Meters", realTime2, "Track", grade]) #writes it into the line
 
-                        elif item == "1600 Meters":
+                        elif item == "1600 Meters": # the event stuff is the same for each event so there isnt a need to explain again
                             eventlistindex =-1
                             for eventTimes in seasontable.find_all('table', {'class' : 'table table-sm table-responsive table-hover'}):
                                 eventlistindex +=1
@@ -267,10 +267,10 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
                                     writer.writerow([meet1, season, year, date1, "3200 Meters", realTime2, "Track", grade])
                         timelistindex +=1
         except:
-            print(athlete_name.strip() + " did not run track.")
+            print(athlete_name.strip() + " did not run track.") # the error, mentioned earlier
 
         result = requests.get(XCurl)
-        doc = BeautifulSoup(result.text, "html.parser")
+        doc = BeautifulSoup(result.text, "html.parser") #basically the same process as earlier just with XC
 
         skipcount=1
         try:    
@@ -348,7 +348,7 @@ def getTopSchool(schoolid, fileName = "RelevantTeamTimes", XCtop2miles = 5, XCto
         except:
             print(athlete_name.strip() + " did not run XC.")
 
-        writer.writerow("")
+        writer.writerow("") # adds a line of extra space between atheletes
 
     file.close
 

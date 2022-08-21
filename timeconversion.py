@@ -1,3 +1,6 @@
+"""
+I was going to put all the functions here to stay organized, but I forgot.
+"""
 def convertTime3200(time, conversionFactor = 2.15):
     if "h" in time:
         time = time.replace("h","")
